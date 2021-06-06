@@ -14,11 +14,11 @@ I am a master's student in Technology Management for Innovation at The Universit
 My research interest has focused on data-driven control towards real-world application, and the nature of environments in deep reinforcement learning.
 
 # News
-- 2021.05: Our paper: "[Policy Information Capacity: Information-Theoretic Measure for Task Complexity in Deep Reinforcement Learning](https://arxiv.org/abs/2103.12726)" has been accepted at ICML2021.
+- 2021.05: Our paper: "Policy Information Capacity: Information-Theoretic Measure for Task Complexity in Deep Reinforcement Learning" has been accepted at ICML2021.
 
-- 2021.04: Our paper: "[Policy Information Capacity: Information-Theoretic Measure for Task Complexity in Deep Reinforcement Learning](https://arxiv.org/abs/2103.12726)" has been accepted at [ICLR 2021 Workshop on Never-Ending RL](https://sites.google.com/view/neverendingrl) as Contributed Talk.
+- 2021.04: Our paper: "Policy Information Capacity: Information-Theoretic Measure for Task Complexity in Deep Reinforcement Learning" has been accepted at [ICLR 2021 Workshop on Never-Ending RL](https://sites.google.com/view/neverendingrl) as Contributed Talk.
 
-- 2021.01: Our paper: "[Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization](https://openreview.net/forum?id=3hGNqpI4WS)" has been accepted at ICLR2021.
+- 2021.01: Our paper: "Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization" has been accepted at ICLR2021.
 
 # Pre-prints
 1. <u>Hiroki Furuta</u>, Tadashi Kozuno, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. <br>
