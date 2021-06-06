@@ -32,7 +32,7 @@ _arXiv preprint arXiv:2103.17258_, 2021. <br>
 _International Conference on Machine Learning (ICML2021)_. <br>
 [[arxiv](https://arxiv.org/abs/2103.12726)] [[code](https://github.com/frt03/pic)]
 
-2. Tatsuya Matsushima\*, <u>Hiroki Furuta\*</u>, Yutaka Matsuo, Ofir Nachum, Shixiang Gu. (\*Equal Contribution)<br>
+2. Tatsuya Matsushima\*, <u>Hiroki Furuta</u>\*, Yutaka Matsuo, Ofir Nachum, Shixiang Gu. (\*Equal Contribution)<br>
 **Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization**  <br>
 _International Conference on Learning Representations (ICLR2021)_. <br>
 [[openreview](https://openreview.net/forum?id=3hGNqpI4WS)] [[code](https://github.com/matsuolab/BREMEN)]
@@ -47,11 +47,11 @@ _[ICLR 2021 Workshop on Never-Ending RL](https://sites.google.com/view/neverendi
 pling Algorithmic and Implementational Sources of Performance Differences**  <br>
 _[NeurIPS 2020 Deep Reinforcement Learning Workshop](https://sites.google.com/view/deep-rl-workshop-neurips2020/home)_
 
-3. Tatsuya Matsushima\*, <u>Hiroki Furuta\*</u>, Yutaka Matsuo, Ofir Nachum, Shixiang Gu. (\*Equal Contribution)<br>
+3. Tatsuya Matsushima\*, <u>Hiroki Furuta</u>\*, Yutaka Matsuo, Ofir Nachum, Shixiang Gu. (\*Equal Contribution)<br>
 **Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization**  <br>
 _[NeurIPS 2020 Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/)_
 
-4. Tatsuya Matsushima\*, <u>Hiroki Furuta\*</u>, Yutaka Matsuo, Ofir Nachum, Shixiang Gu. (\*Equal Contribution)<br>
+4. Tatsuya Matsushima\*, <u>Hiroki Furuta</u>\*, Yutaka Matsuo, Ofir Nachum, Shixiang Gu. (\*Equal Contribution)<br>
 **Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization**  <br>
 _[Bay Area Machine Learning Symposium 2020](https://baylearn2020.splashthat.com/)_
 
