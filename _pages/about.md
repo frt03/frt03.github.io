@@ -43,8 +43,7 @@ _International Conference on Learning Representations (ICLR2021)_. <br>
 _[ICLR 2021 Workshop on Never-Ending RL](https://sites.google.com/view/neverendingrl)_. (Contributed Talk)
 
 2. <u>Hiroki Furuta</u>, Tadashi Kozuno, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. <br>
-**A Unified View of Inference-based Off-Policy RL: Decou-
-pling Algorithmic and Implementational Sources of Performance Differences**  <br>
+**A Unified View of Inference-based Off-Policy RL: Decoupling Algorithmic and Implementational Sources of Performance Differences**  <br>
 _[NeurIPS 2020 Deep Reinforcement Learning Workshop](https://sites.google.com/view/deep-rl-workshop-neurips2020/home)_
 
 3. Tatsuya Matsushima\*, <u>Hiroki Furuta</u>\*, Yutaka Matsuo, Ofir Nachum, Shixiang Gu. (\*Equal Contribution)<br>
