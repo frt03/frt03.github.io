@@ -18,7 +18,12 @@ My research interest has focused on data-driven control towards real-world appli
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Generalized Decision Transformer for Offline Hindsight Information Matching**  <br>
 _arXiv preprint_, 2021. <br>
-[[arxiv]()] [[code](https://github.com/frt03/generalized_dt)]
+[[arxiv]()] [[code](https://github.com/frt03/generalized_dt)] [[website](https://sites.google.com/view/generalizeddt)]
+
+2. Shixiang Shane Gu, Manfred Diaz, C. Daniel Freeman, <u>Hiroki Furuta</u>, Seyed Kamyar Seyed Ghasemipour, Anton Raichuk, Byron David, Erik Frey, Erwin Coumans, Olivier Bachem. <br>
+**Braxlines: Fast and Interactive Toolkit for RL-driven Behavior Generation Beyond Reward Maximization**  <br>
+_arXiv preprint_, 2021. <br>
+[[arxiv](https://arxiv.org/abs/2110.04686)] [[code](https://github.com/google/brax/tree/main/brax/experimental/braxlines/)]
 
 # Conference Publications
 1. <u>Hiroki Furuta</u>, Tadashi Kozuno, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. <br>
