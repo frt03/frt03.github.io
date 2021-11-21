@@ -22,7 +22,7 @@ _arXiv preprint_, 2021. <br>
 
 2. Shixiang Shane Gu, Manfred Diaz, C. Daniel Freeman, <u>Hiroki Furuta</u>, Seyed Kamyar Seyed Ghasemipour, Anton Raichuk, Byron David, Erik Frey, Erwin Coumans, Olivier Bachem. <br>
 **Braxlines: Fast and Interactive Toolkit for RL-driven Behavior Generation Beyond Reward Maximization**  <br>
-_arXiv preprint_, 2021. <br>
+_arXiv preprint arXiv:2110.04686_, 2021. <br>
 [[arxiv](https://arxiv.org/abs/2110.04686)] [[code](https://github.com/google/brax/tree/main/brax/experimental/braxlines/)]
 
 # Conference Publications
