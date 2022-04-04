@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hiroki Furuta"
 title_separator          : "-"
 name                     : &name "Hiroki Furuta"
-description              : &description "Master's Student at The University of Tokyo"
+description              : &description "Ph.D. Student at The University of Tokyo"
 url                      : https://frt03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "frt03.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hiroki Furuta"
   avatar           : "profile.png"
-  bio              : "Master's Student at The University of Tokyo"
+  bio              : "Ph.D. Student at The University of Tokyo"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

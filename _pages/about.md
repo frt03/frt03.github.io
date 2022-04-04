@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a master's student in Technology Management for Innovation at The University of Tokyo, working on Deep Reinforcement Learning. I am advised by [Yutaka Matsuo](http://ymatsuo.com/) and mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
+I am a Ph.D. student in Technology Management for Innovation at The University of Tokyo, working on Deep Reinforcement Learning. I am advised by [Yutaka Matsuo](http://ymatsuo.com/) and mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home). I was also recieved BEng and MEng at The University of Tokyo.
 
 My research interest has focused on data-driven control towards real-world application, and the nature of environments in deep reinforcement learning.
 
@@ -71,6 +71,6 @@ _[Bay Area Machine Learning Symposium 2020](https://baylearn2020.splashthat.com/
 
 2. Reviewer for International Conference on Learning Representations (ICLR), 2022.
 
-3. Reviewer for Neural Information Processing Systems (NeurIPS), 2021.
+3. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022.
 
 4. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022.
