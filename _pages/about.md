@@ -69,8 +69,10 @@ _[Bay Area Machine Learning Symposium 2020](https://baylearn2020.splashthat.com/
 # Academic Activitites
 1. Co-organizer for [Ecological Theory of RL Workshop](https://sites.google.com/view/ecorl2021) at NeurIPS 2021.
 
-2. Reviewer for International Conference on Learning Representations (ICLR), 2022.
+2. Reviewer for International Conference on Learning Representations (ICLR), 2022(Highlighted Reviewer).
 
 3. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022.
 
 4. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022.
+
+5. Reviewer for  Transactions on Machine Learning Research (TMLR).
