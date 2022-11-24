@@ -78,9 +78,9 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 ## Academic Activitites
 1. Co-organizer for [Ecological Theory of RL Workshop](https://sites.google.com/view/ecorl2021) at NeurIPS 2021.
 
-2. Reviewer for International Conference on Learning Representations (ICLR), 2022(**Highlighted Reviewer**), 2023.
+2. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023.
 
-3. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022(**Top Reviewer**).
+3. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>.
 
 4. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022.
 
