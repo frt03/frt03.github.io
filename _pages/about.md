@@ -52,23 +52,23 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 ## Workshop Papers
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Control Graph as Unified IO for Morphology-Task Generalization** <br>
-_[NeurIPS 2022 3rd Offline Reinforcement Learning Workshop: Offline RL as a "Launchpad"](https://offline-rl-neurips.github.io/2022/)_ (**Contributed Talk**), and _[NeurIPS 2022 Foundation Models for Decision Making Workshop](https://sites.google.com/view/fmdm-neurips/)_.
+<span style="font-size: 80%;">_[NeurIPS 2022 3rd Offline Reinforcement Learning Workshop: Offline RL as a "Launchpad"](https://offline-rl-neurips.github.io/2022/)_ (**Contributed Talk**), and _[NeurIPS 2022 Foundation Models for Decision Making Workshop](https://sites.google.com/view/fmdm-neurips/)_.</span>
 
 2. <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Generalized Decision Transformer for Offline Hindsight Information Matching**  <br>
-_[NeurIPS 2021 Deep Reinforcement Learning Workshop](https://sites.google.com/view/deep-rl-workshop-neurips2021/)_.
+<span style="font-size: 80%;">_[NeurIPS 2021 Deep Reinforcement Learning Workshop](https://sites.google.com/view/deep-rl-workshop-neurips2021/)_.</span>
 
 3. <u>Hiroki Furuta</u>, Tatsuya Matsushima, Tadashi Kozuno, Yutaka Matsuo, Sergey Levine, Ofir Nachum, Shixiang Shane Gu. <br>
 **Policy Information Capacity: Information-Theoretic Measure for Task Complexity in Deep Reinforcement Learning**  <br>
-_[ICLR 2021 Workshop on Never-Ending RL](https://sites.google.com/view/neverendingrl/)_ (**Contributed Talk**).
+<span style="font-size: 80%;">_[ICLR 2021 Workshop on Never-Ending RL](https://sites.google.com/view/neverendingrl/)_ (**Contributed Talk**).</span>
 
 4. <u>Hiroki Furuta</u>, Tadashi Kozuno, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A Unified View of Inference-based Off-Policy RL: Decoupling Algorithmic and Implementational Sources of Performance Differences**  <br>
-_[NeurIPS 2020 Deep Reinforcement Learning Workshop](https://sites.google.com/view/deep-rl-workshop-neurips2020/)_.
+<span style="font-size: 80%;">_[NeurIPS 2020 Deep Reinforcement Learning Workshop](https://sites.google.com/view/deep-rl-workshop-neurips2020/)_.</span>
 
 5. Tatsuya Matsushima\*, <u>Hiroki Furuta</u>\*, Yutaka Matsuo, Ofir Nachum, Shixiang Gu. (\*Equal Contribution)<br>
 **Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization**  <br>
-_[NeurIPS 2020 Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/)_, and _[Bay Area Machine Learning Symposium 2020](https://baylearn2020.splashthat.com/)_.
+<span style="font-size: 80%;">_[NeurIPS 2020 Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/)_, and _[Bay Area Machine Learning Symposium 2020](https://baylearn2020.splashthat.com/)_.</span>
 
 
 ## Talks
