@@ -17,9 +17,10 @@ My research interest has focused on data-driven control towards real-world appli
 ## Preprints
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
-_arXiv preprint arXiv:_, 2022. <br>
+<!-- _arXiv preprint arXiv:_, 2022. <br> -->
+To appear, 2022. <br>
 [[arxiv]()] [[code](https://github.com/frt03/mxt_bench)] [[website](https://sites.google.com/view/control-graph)]
- 
+
 2. Shixiang Shane Gu, Manfred Diaz, C. Daniel Freeman, <u>Hiroki Furuta</u>, Seyed Kamyar Seyed Ghasemipour, Anton Raichuk, Byron David, Erik Frey, Erwin Coumans, Olivier Bachem. <br>
 **Braxlines: Fast and Interactive Toolkit for RL-driven Behavior Generation Beyond Reward Maximization**  <br>
 _arXiv preprint arXiv:2110.04686_, 2021. <br>
@@ -51,7 +52,7 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 ## Workshop Papers
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Control Graph as Unified IO for Morphology-Task Generalization** <br>
-_[NeurIPS 2022 3rd Offline Reinforcement Learning Workshop: Offline RL as a "Launchpad"](https://offline-rl-neurips.github.io/2022/)_(**Contributed Talk**), and _[NeurIPS 2022 Foundation Models for Decision Making Workshop](https://sites.google.com/view/fmdm-neurips/)_.
+_[NeurIPS 2022 3rd Offline Reinforcement Learning Workshop: Offline RL as a "Launchpad"](https://offline-rl-neurips.github.io/2022/)_ (**Contributed Talk**), and _[NeurIPS 2022 Foundation Models for Decision Making Workshop](https://sites.google.com/view/fmdm-neurips/)_.
 
 2. <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Generalized Decision Transformer for Offline Hindsight Information Matching**  <br>
