@@ -49,7 +49,7 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 [[openreview](https://openreview.net/forum?id=3hGNqpI4WS)] [[code](https://github.com/matsuolab/BREMEN)]
 
 
-## Workshop Papers
+## Workshop Presentations
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Control Graph as Unified IO for Morphology-Task Generalization** <br>
 <span style="font-size: 80%;">_[NeurIPS 2022 3rd Offline Reinforcement Learning Workshop: Offline RL as a "Launchpad"](https://offline-rl-neurips.github.io/2022/)_ (**Contributed Talk**), and _[NeurIPS 2022 Foundation Models for Decision Making Workshop](https://sites.google.com/view/fmdm-neurips/)_.</span>
