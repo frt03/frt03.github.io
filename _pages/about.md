@@ -18,8 +18,8 @@ My research interest has focused on data-driven control towards real-world appli
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
 <!-- _arXiv preprint arXiv:_, 2022. <br> -->
-To appear, 2022. <br>
-[[arxiv]()] [[code](https://github.com/frt03/mxt_bench)] [[website](https://sites.google.com/view/control-graph)]
+_arXiv preprint arXiv:2211.14296_, 2022. <br>
+[[arxiv](https://arxiv.org/abs/2211.14296)] [[code](https://github.com/frt03/mxt_bench)] [[website](https://sites.google.com/view/control-graph)]
 
 2. Shixiang Shane Gu, Manfred Diaz, C. Daniel Freeman, <u>Hiroki Furuta</u>, Seyed Kamyar Seyed Ghasemipour, Anton Raichuk, Byron David, Erik Frey, Erwin Coumans, Olivier Bachem. <br>
 **Braxlines: Fast and Interactive Toolkit for RL-driven Behavior Generation Beyond Reward Maximization**  <br>
