@@ -9,24 +9,17 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in Technology Management for Innovation at The University of Tokyo, working on Deep Reinforcement Learning. I am advised by [Yutaka Matsuo](http://ymatsuo.com/) and mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home). I was also recieved BEng and MEng at The University of Tokyo.
+I am a Ph.D. student in Technology Management for Innovation at The University of Tokyo, working on deep reinforcement learning and foundation models. I am advised by [Yutaka Matsuo](http://ymatsuo.com/) and mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home). I was also recieved BEng and MEng at The University of Tokyo.
 
-My research interest has focused on data-driven control towards real-world applications, and scalable decision making with large scale models.
-
-
-## Preprints
-1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
-**A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
-_arXiv preprint arXiv:2211.14296_, 2022. <br>
-[[arxiv](https://arxiv.org/abs/2211.14296)] [[code](https://github.com/frt03/mxt_bench)] [[website](https://sites.google.com/view/control-graph)]
-
-1. Shixiang Shane Gu, Manfred Diaz, C. Daniel Freeman, <u>Hiroki Furuta</u>, Seyed Kamyar Seyed Ghasemipour, Anton Raichuk, Byron David, Erik Frey, Erwin Coumans, Olivier Bachem. <br>
-**Braxlines: Fast and Interactive Toolkit for RL-driven Behavior Generation Beyond Reward Maximization**  <br>
-_arXiv preprint arXiv:2110.04686_, 2021. <br>
-[[arxiv](https://arxiv.org/abs/2110.04686)] [[code](https://github.com/google/brax/tree/main/brax/experimental/braxlines/)]
+My research interest has focused on data-driven control towards real-world applications, and scalable decision making with large-scale models.
 
 
 ## Conference Publications
+1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
+**A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
+_International Conference on Learning Representations (ICLR 2023)_ (**notable-top-25%**). <br>
+[[arxiv](https://arxiv.org/abs/2211.14296)] [[code](https://github.com/frt03/mxt_bench)] [[website](https://sites.google.com/view/control-graph)]
+
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Generalized Decision Transformer for Offline Hindsight Information Matching**  <br>
 _International Conference on Learning Representations (ICLR 2022)_ (**Spotlight**, 6.8% of 3391 submissions). <br>
@@ -46,6 +39,13 @@ _International Conference on Machine Learning (ICML 2021)_. <br>
 **Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization**  <br>
 _International Conference on Learning Representations (ICLR 2021)_. <br>
 [[openreview](https://openreview.net/forum?id=3hGNqpI4WS)] [[code](https://github.com/matsuolab/BREMEN)]
+
+
+## Preprints
+1. Shixiang Shane Gu, Manfred Diaz, C. Daniel Freeman, <u>Hiroki Furuta</u>, Seyed Kamyar Seyed Ghasemipour, Anton Raichuk, Byron David, Erik Frey, Erwin Coumans, Olivier Bachem. <br>
+**Braxlines: Fast and Interactive Toolkit for RL-driven Behavior Generation Beyond Reward Maximization**  <br>
+_arXiv preprint arXiv:2110.04686_, 2021. <br>
+[[arxiv](https://arxiv.org/abs/2110.04686)] [[code](https://github.com/google/brax/tree/main/brax/experimental/braxlines/)]
 
 
 ## Workshop Presentations
