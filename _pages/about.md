@@ -17,7 +17,7 @@ My research interest has focused on data-driven control towards real-world appli
 ## Conference Publications
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
-_International Conference on Learning Representations (ICLR 2023)_ (**notable-top-25%**). <br>
+_International Conference on Learning Representations (ICLR 2023)_ (**Notable-top-25%**, 8.0% of 4966 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2211.14296)] [[code](https://github.com/frt03/mxt_bench)] [[website](https://sites.google.com/view/control-graph)]
 
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu. <br>
@@ -81,7 +81,7 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 
 1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>.
 
-1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022.
+1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023.
 
 1. Reviewer for Transactions on Machine Learning Research (TMLR).
 
@@ -89,14 +89,15 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 
 1. Program Committee for [Foundation Models for Decision Making Workshop](https://sites.google.com/view/fmdm-neurips/) at NeurIPS 2022.
 
-<!--  
-# Education and Experience
-- Student Researcher at Google (2022 - 2023)
-- MEng from The University of Tokyo (2022)
-- BEng from The University of Tokyo (2020)
--->
 
 ## Honors & Awards
 - The Japan Society for the Promotion of Science Research Fellow (DC1) <span style="font-size: 80%;">_(April, 2022 - March, 2025)_</span>
 - Dean’s Award <span style="font-size: 80%;">_(from Graduate School of Engineering, The University of Tokyo, 2022)_</span>
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher <span style="font-size: 80%;">_(April, 2021 - March, 2022)_</span>
+
+## Education and Experience
+<!--  
+- Student Researcher at Google Research, Brain Team (2022 - 2023)
+-->
+- MEng from The University of Tokyo (2022)
+- BEng from The University of Tokyo (2020)
