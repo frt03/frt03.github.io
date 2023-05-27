@@ -9,9 +9,18 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in Technology Management for Innovation at The University of Tokyo, working on deep reinforcement learning and foundation models. I am advised by [Yutaka Matsuo](http://ymatsuo.com/) and mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home). I was also recieved BEng and MEng at The University of Tokyo.
+I am a Ph.D. student in Technology Management for Innovation at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/). I am also a Student Researcher at Google DeepMind, hosted by [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) and [Izzeddin Gur](https://scholar.google.com/citations?user=qS_ugJAAAAAJ). I was also recieved BEng and MEng at The University of Tokyo, and mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
 
-My research interest has focused on data-driven control towards real-world applications, and scalable decision making with large-scale models.
+
+
+My research interest has focused on data-driven control towards real-world applications (e.g. robotics, web navigation), and scalable decision making with large-scale foundation models.
+
+
+## Recent Preprints
+1. <u>Hiroki Furuta</u>, Ofir Nachum, Kuang-Huei Lee, Yutaka Matsuo, Shixiang Shane Gu, Izzeddin Gur. <br>
+**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**  <br>
+_arXiv preprint arXiv:2305.11854_, 2023. <br>
+[[arxiv](https://arxiv.org/abs/2305.11854)] [[website](https://sites.google.com/view/mm-webnav/)]
 
 
 ## Conference Publications
@@ -40,11 +49,13 @@ _International Conference on Machine Learning (ICML 2021)_. <br>
 _International Conference on Learning Representations (ICLR 2021)_. <br>
 [[openreview](https://openreview.net/forum?id=3hGNqpI4WS)] [[code](https://github.com/matsuolab/BREMEN)]
 
+
 ## Journal Publications
-1. So Kuroki, Tatsuya Matsushima, Junpei Arima, <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu, Yujin Tang <br>
+1. So Kuroki, Tatsuya Matsushima, Junpei Arima, <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu, Yujin Tang. <br>
 **Collective Intelligence for 2D Push Manipulations With Mobile Robots** <br>
 _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 [[paper](https://ieeexplore.ieee.org/abstract/document/10080994)]
+
 
 ## Preprints
 1. Shixiang Shane Gu, Manfred Diaz, C. Daniel Freeman, <u>Hiroki Furuta</u>, Seyed Kamyar Seyed Ghasemipour, Anton Raichuk, Byron David, Erik Frey, Erwin Coumans, Olivier Bachem. <br>
@@ -104,9 +115,9 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 - Dean’s Award <span style="font-size: 80%;">_(from Graduate School of Engineering, The University of Tokyo, 2022)_</span>
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher <span style="font-size: 80%;">_(April, 2021 - March, 2022)_</span>
 
-## Education and Experience
-<!--  
+
+## Education & Experience
+- Student Researcher at Google DeepMind (2023 - Present)
 - Student Researcher at Google Research, Brain Team (2022 - 2023)
--->
 - MEng from The University of Tokyo (2022)
 - BEng from The University of Tokyo (2020)
