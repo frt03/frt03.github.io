@@ -18,6 +18,9 @@ author_profile: true
 
 
 ## 業績
+
+日本語での発表のみ. 英語論文等については[Publications](./publications.md)をご覧ください.
+
 ### 総説・解説
 1. <u>古田 拓毅</u>. [データ中心の視点から捉える深層強化学習](https://www.jstage.jst.go.jp/article/jjsai/37/4/37_507/_article/-char/ja/). _人工知能_, 37(4), 507-515. 2022.
 
@@ -27,6 +30,9 @@ author_profile: true
 
 1. 松嶋 達也, <u>古田 拓毅</u>, 顧 世翔, 松尾 豊. [オフラインデータを利用したモデルベース強化学習](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_2D5OS18b03/_article/-char/ja/). _人工知能学会全国大会 (JSAI2020)_, 2020.
 -->
+
+## 講演・発表
+1. <u>古田 拓毅</u>. 大規模モデルに基づく意思決定エージェントの構築. 2023年中日青年博士フォーラム ー人工知能技術の応用と発展. 2023.
 
 ## 表彰等
 - 日本学術振興会 特別研究員 (DC1) <span style="font-size: 80%;">(2022年 4月 - 2025年 3月)</span>
