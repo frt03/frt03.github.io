@@ -31,12 +31,12 @@ _arXiv preprint arXiv:2305.11854_, 2023. <br>
 ## Conference Publications
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
-_International Conference on Learning Representations (ICLR 2023)_ (**Notable-top-25%**, 8.0% of 4966 submissions). <br>
+_International Conference on Learning Representations (ICLR 2023)_ (**Notable-top-25%**, 8% of 4966 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2211.14296)] [[code](https://github.com/frt03/mxt_bench)] [[website](https://sites.google.com/view/control-graph)]
 
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Generalized Decision Transformer for Offline Hindsight Information Matching**  <br>
-_International Conference on Learning Representations (ICLR 2022)_ (**Spotlight**, 6.8% of 3391 submissions). <br>
+_International Conference on Learning Representations (ICLR 2022)_ (**Spotlight**, 5% of 3391 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2111.10364)] [[code](https://github.com/frt03/generalized_dt)] [[website](https://sites.google.com/view/generalizeddt)]
 
 1. <u>Hiroki Furuta</u>, Tadashi Kozuno, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. <br>
