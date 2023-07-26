@@ -122,7 +122,7 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 
 
 ## Education & Experience
-- Student Researcher at Google DeepMind (2023 - Present)
-- Student Researcher at Google Research, Brain Team (2022 - 2023)
-- MEng from The University of Tokyo (2022)
-- BEng from The University of Tokyo (2020)
+- Student Researcher at Google DeepMind <span style="font-size: 80%;">_(June, 2023 - Present)_</span>
+- Student Researcher at Google Research, Brain Team <span style="font-size: 80%;">_(July, 2022 - May, 2022)_</span>
+- MEng from The University of Tokyo <span style="font-size: 80%;">_(March, 2022)_</span>
+- BEng from The University of Tokyo <span style="font-size: 80%;">_(March, 2020)_</span>
