@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span style="font-size: 90%;">
 
-
-I am a Ph.D. student in Technology Management for Innovation at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/). I am also a Student Researcher at Google DeepMind, hosted by [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) and [Izzeddin Gur](https://scholar.google.com/citations?user=qS_ugJAAAAAJ). I was also recieved BEng and MEng at The University of Tokyo, and mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
+I am a Ph.D. student in Technology Management for Innovation at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/). I am also a Student Researcher at Google DeepMind, hosted by [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) and [Izzeddin Gur](https://scholar.google.com/citations?user=qS_ugJAAAAAJ). I was also received BEng and MEng at The University of Tokyo, and closely mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
 
 
 
@@ -17,6 +17,11 @@ My research interest has focused on data-driven control towards real-world appli
 
 
 ## Recent Preprints
+1. Izzeddin Gur\*, <u>Hiroki Furuta</u>\*, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust. (\*Equal Contribution)<br>
+**A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**  <br>
+_arXiv preprint arXiv:2307.12856_, 2023. <br>
+[[arxiv](https://arxiv.org/abs/2307.12856)]
+
 1. <u>Hiroki Furuta</u>, Ofir Nachum, Kuang-Huei Lee, Yutaka Matsuo, Shixiang Shane Gu, Izzeddin Gur. <br>
 **Multimodal Web Navigation with Instruction-Finetuned Foundation Models**  <br>
 _arXiv preprint arXiv:2305.11854_, 2023. <br>
@@ -121,3 +126,5 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 - Student Researcher at Google Research, Brain Team (2022 - 2023)
 - MEng from The University of Tokyo (2022)
 - BEng from The University of Tokyo (2020)
+
+</span>
