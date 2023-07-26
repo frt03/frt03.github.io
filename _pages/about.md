@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size: 90%;">
+<span style="font-size: 80%;">
 
 I am a Ph.D. student in Technology Management for Innovation at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/). I am also a Student Researcher at Google DeepMind, hosted by [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) and [Izzeddin Gur](https://scholar.google.com/citations?user=qS_ugJAAAAAJ). I was also received BEng and MEng at The University of Tokyo, and closely mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
 
@@ -126,5 +126,3 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 - Student Researcher at Google Research, Brain Team (2022 - 2023)
 - MEng from The University of Tokyo (2022)
 - BEng from The University of Tokyo (2020)
-
-</span>
