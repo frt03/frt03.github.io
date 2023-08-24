@@ -35,6 +35,7 @@ author_profile: true
 1. <u>古田 拓毅</u>. 大規模モデルに基づく意思決定エージェントの構築. 2023年中日青年博士フォーラム ー人工知能技術の応用と発展. 2023.
 
 ## 表彰等
+- Forbes JAPAN 30 UNDER 30 2023 <span style="font-size: 80%;">_(2023年 8月)_</span>
 - 日本学術振興会 特別研究員 (DC1) <span style="font-size: 80%;">(2022年 4月 - 2025年 3月)</span>
 - 工学系研究科長賞 <span style="font-size: 80%;">(2022年 3月)</span>
 - トヨタ・ドワンゴ高度人工知能人材奨学金 <span style="font-size: 80%;">(2021年 4月 - 2022年 3月)</span>

@@ -72,7 +72,7 @@ Please check [Publications](./publications.md) for further details.
 ## Academic Activitites
 1. Co-organizer for [Ecological Theory of RL Workshop](https://sites.google.com/view/ecorl2021) at NeurIPS 2021.
 
-1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023.
+1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024.
 
 1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2023.
 
@@ -82,10 +82,11 @@ Please check [Publications](./publications.md) for further details.
 
 1. Reviewer for Advanced Robotics (AR).
 
-1. Program Committee for [Foundation Models for Decision Making Workshop](https://sites.google.com/view/fmdm-neurips/) at NeurIPS 2022.
+1. Program Committee for Foundation Models for Decision Making Workshop at NeurIPS [2022](https://sites.google.com/view/fmdm-neurips/), 2023.
 
 
 ## Honors & Awards
+- Forbes JAPAN 30 UNDER 30 2023 <span style="font-size: 80%;">_(August, 2023)_</span>
 - The Japan Society for the Promotion of Science Research Fellow (DC1) <span style="font-size: 80%;">_(April, 2022 - March, 2025)_</span>
 - Dean’s Award <span style="font-size: 80%;">_(from Graduate School of Engineering, The University of Tokyo, 2022)_</span>
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher <span style="font-size: 80%;">_(April, 2021 - March, 2022)_</span>
