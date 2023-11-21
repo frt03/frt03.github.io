@@ -76,7 +76,7 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
 <span style="font-size: 80%;">_CoRL 2023 2nd Workshop on Language and Robot Learning (LangRob): Language as Grounding 
  [$^{*}$](https://sites.google.com/view/langrob-corl23/home/)_, _CoRL 2023 Towards Generalist Robots:
-Learning Paradigms for Scalable Skill Acquisition [$^{*}$](https://generalist-robots.github.io/)_, and _NeurIPS 2023 6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models [$^{*}$](https://www.robot-learning.ml/2023/)_.</span>
+Learning Paradigms for Scalable Skill Acquisition (**Oral**) [$^{*}$](https://generalist-robots.github.io/)_, and _NeurIPS 2023 6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models [$^{*}$](https://www.robot-learning.ml/2023/)_.</span>
 
 1. <u>Hiroki Furuta</u>, Ofir Nachum, Kuang-Huei Lee, Yutaka Matsuo, Shixiang Shane Gu, Izzeddin Gur. <br>
 **Instruction-Finetuned Foundation Models for Multimodal Web Navigation** <br>
