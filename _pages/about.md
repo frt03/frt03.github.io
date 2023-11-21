@@ -13,16 +13,26 @@ I am a Ph.D. student in Technology Management for Innovation at The University o
 
 
 
-My research interest has focused on data-driven control towards real-world applications (e.g. robotics, web navigation), and scalable decision making with large-scale foundation models.
+My research interest has focused on data-driven control towards real-world applications (e.g. robotics, web automation), and scalable decision making with large-scale foundation models.
 
 
 ## Recent Preprints
+<!-- 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br> -->
+<!-- **Language Model Agents Suffer from Compositional Generalization in Web Automation**  <br> -->
+<!-- _arXiv preprint_, 2023. <br> -->
+<!-- [[arxiv]()] -->
+
+1. Open X-Embodiment Collaboration, et al. <br>
+**Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
+_arXiv preprint arXiv:2310.08864_, 2023. <br>
+[[arxiv](https://arxiv.org/abs/2310.08864)] [[website](https://robotics-transformer-x.github.io/)]
+
 1. Izzeddin Gur\*, <u>Hiroki Furuta</u>\*, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust. (\*Equal Contribution)<br>
 **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**  <br>
 _arXiv preprint arXiv:2307.12856_, 2023. <br>
 [[arxiv](https://arxiv.org/abs/2307.12856)]
 
-1. <u>Hiroki Furuta</u>, Ofir Nachum, Kuang-Huei Lee, Yutaka Matsuo, Shixiang Shane Gu, Izzeddin Gur. <br>
+1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur. <br>
 **Multimodal Web Navigation with Instruction-Finetuned Foundation Models**  <br>
 _arXiv preprint arXiv:2305.11854_, 2023. <br>
 [[arxiv](https://arxiv.org/abs/2305.11854)] [[website](https://sites.google.com/view/mm-webnav/)]
@@ -66,15 +76,13 @@ Please check [Publications](./publications.md) for further details.
 
 
 ## Talks
-1. Hiroki Furuta. "Co-Adaptation of Algorithmic and Implementational Innovations in Inference-based Deep Reinforcement Learning". [NeurIPS Meetup Japan 2021](https://neuripsmeetup.jp/2021/), 2021.
+1. Hiroki Furuta. "Co-Adaptation of Algorithmic and Implementational Innovations in Inference-based Deep Reinforcement Learning". NeurIPS Meetup Japan 2021 [$^{*}$](https://neuripsmeetup.jp/2021/), 2021.
 
 
 ## Academic Activitites
-1. Co-organizer for [Ecological Theory of RL Workshop](https://sites.google.com/view/ecorl2021) at NeurIPS 2021.
+1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2023 <span style="font-size: 80%;">(**Top Reviewer**)</span>.
 
 1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024.
-
-1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2023.
 
 1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023.
 
@@ -82,7 +90,9 @@ Please check [Publications](./publications.md) for further details.
 
 1. Reviewer for Advanced Robotics (AR).
 
-1. Program Committee for Foundation Models for Decision Making Workshop at NeurIPS [2022](https://sites.google.com/view/fmdm-neurips/), 2023.
+1. Co-organizer for Ecological Theory of RL Workshop at NeurIPS [2021](https://sites.google.com/view/ecorl2021).
+
+1. Program Committee for Foundation Models for Decision Making Workshop at NeurIPS [2022](https://sites.google.com/view/fmdm-neurips/), [2023](https://sites.google.com/view/fmdm-neurips23/).
 
 
 ## Honors & Awards
