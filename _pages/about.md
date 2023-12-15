@@ -17,10 +17,10 @@ My research interest has focused on data-driven control towards real-world appli
 
 
 ## Recent Preprints
-<!-- 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br> -->
-<!-- **Language Model Agents Suffer from Compositional Generalization in Web Automation**  <br> -->
-<!-- _arXiv preprint_, 2023. <br> -->
-<!-- [[arxiv]()] -->
+1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
+**Language Model Agents Suffer from Compositional Generalization in Web Automation**  <br>
+_arXiv preprint arXiv:2311.18751_, 2023. <br>
+[[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
 
 1. Open X-Embodiment Collaboration, et al. <br>
 **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
@@ -76,6 +76,8 @@ Please check [Publications](./publications.md) for further details.
 
 
 ## Talks
+1. Hiroki Furuta. "Opportunities and Challenges of Language Model Agents in Web Automation". Berkeley Artificial Intelligence Research Lab, 2023.
+
 1. Hiroki Furuta. "Co-Adaptation of Algorithmic and Implementational Innovations in Inference-based Deep Reinforcement Learning". NeurIPS Meetup Japan 2021 [$^{*}$](https://neuripsmeetup.jp/2021/), 2021.
 
 
@@ -84,7 +86,7 @@ Please check [Publications](./publications.md) for further details.
 
 1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024.
 
-1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023.
+1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023, 2024.
 
 1. Reviewer for Transactions on Machine Learning Research (TMLR).
 

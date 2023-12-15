@@ -41,10 +41,10 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 
 
 ## Preprints
-<!-- 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br> -->
-<!-- **Language Model Agents Suffer from Compositional Generalization in Web Automation**  <br> -->
-<!-- _arXiv preprint_, 2023. <br> -->
-<!-- [[arxiv]()] -->
+1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
+**Language Model Agents Suffer from Compositional Generalization in Web Automation**  <br>
+_arXiv preprint arXiv:2311.18751_, 2023. <br>
+[[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
 
 1. Open X-Embodiment Collaboration, et al. <br>
 **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
@@ -70,34 +70,48 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 ## Workshop Presentations
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
 **Language Model Agents Suffer from Compositional Generalization in Web Automation**  <br>
-<span style="font-size: 80%;">_NeurIPS 2023 Foundation Models for Decision Making Workshop [$^{*}$](https://sites.google.com/view/fmdm-neurips23/)_.</span>
+<span style="font-size: 70%;">_NeurIPS 2023 Foundation Models for Decision Making Workshop [$^{*}$](https://sites.google.com/view/fmdm-neurips23/)_.</span>
 
 1. Open X-Embodiment Collaboration, et al. <br>
-**Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
-<span style="font-size: 80%;">_CoRL 2023 2nd Workshop on Language and Robot Learning (LangRob): Language as Grounding 
- [$^{*}$](https://sites.google.com/view/langrob-corl23/home/)_, _CoRL 2023 Towards Generalist Robots:
-Learning Paradigms for Scalable Skill Acquisition (**Oral**) [$^{*}$](https://generalist-robots.github.io/)_, and _NeurIPS 2023 6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models [$^{*}$](https://www.robot-learning.ml/2023/)_.</span>
+**Open X-Embodiment: Robotic Learning Datasets and RT-X Models** <br>
+<span style="font-size: 70%;">
+_CoRL 2023 2nd Workshop on Language and Robot Learning (LangRob): Language as Grounding 
+ [$^{*}$](https://sites.google.com/view/langrob-corl23/home/)_ <br>
+_CoRL 2023 Towards Generalist Robots:
+Learning Paradigms for Scalable Skill Acquisition (**Oral**) [$^{*}$](https://generalist-robots.github.io/)_ <br>
+_NeurIPS 2023 6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models [$^{*}$](https://www.robot-learning.ml/2023/)_.
+</span>
 
 1. <u>Hiroki Furuta</u>, Ofir Nachum, Kuang-Huei Lee, Yutaka Matsuo, Shixiang Shane Gu, Izzeddin Gur. <br>
 **Instruction-Finetuned Foundation Models for Multimodal Web Navigation** <br>
-<span style="font-size: 80%;">_ICLR 2023 Workshop on Multimodal Representation Learning [$^{*}$](https://mrl-workshop.github.io/iclr-2023/)_ (**Spotlight**), _ICLR 2023 Workshop on Mathematical and Empirical Understanding of Foundation Models [$^{*}$](https://sites.google.com/view/me-fomo2023)_, and _ICLR 2023 Workshop on Reincarnating Reinforcement Learning [$^{*}$](https://reincarnating-rl.github.io/)_.</span>
+<span style="font-size: 70%;">
+_ICLR 2023 Workshop on Multimodal Representation Learning [$^{*}$](https://mrl-workshop.github.io/iclr-2023/)_ (**Spotlight**) <br>
+_ICLR 2023 Workshop on Mathematical and Empirical Understanding of Foundation Models [$^{*}$](https://sites.google.com/view/me-fomo2023)_ <br>
+_ICLR 2023 Workshop on Reincarnating Reinforcement Learning [$^{*}$](https://reincarnating-rl.github.io/)_.
+</span>
 
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Control Graph as Unified IO for Morphology-Task Generalization** <br>
-<span style="font-size: 80%;">_NeurIPS 2022 3rd Offline Reinforcement Learning Workshop: Offline RL as a "Launchpad" [$^{*}$](https://offline-rl-neurips.github.io/2022/)_ (**Contributed Talk**), and _NeurIPS 2022 Foundation Models for Decision Making Workshop [$^{*}$](https://sites.google.com/view/fmdm-neurips/)_.</span>
+<span style="font-size: 70%;">
+_NeurIPS 2022 3rd Offline Reinforcement Learning Workshop: Offline RL as a "Launchpad" [$^{*}$](https://offline-rl-neurips.github.io/2022/)_ (**Contributed Talk**) <br>
+_NeurIPS 2022 Foundation Models for Decision Making Workshop [$^{*}$](https://sites.google.com/view/fmdm-neurips/)_.
+</span>
 
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Generalized Decision Transformer for Offline Hindsight Information Matching**  <br>
-<span style="font-size: 80%;">_NeurIPS 2021 Deep Reinforcement Learning Workshop [$^{*}$](https://sites.google.com/view/deep-rl-workshop-neurips2021/)_.</span>
+<span style="font-size: 70%;">_NeurIPS 2021 Deep Reinforcement Learning Workshop [$^{*}$](https://sites.google.com/view/deep-rl-workshop-neurips2021/)_.</span>
 
 1. <u>Hiroki Furuta</u>, Tatsuya Matsushima, Tadashi Kozuno, Yutaka Matsuo, Sergey Levine, Ofir Nachum, Shixiang Shane Gu. <br>
 **Policy Information Capacity: Information-Theoretic Measure for Task Complexity in Deep Reinforcement Learning**  <br>
-<span style="font-size: 80%;">_ICLR 2021 Workshop on Never-Ending RL [$^{*}$](https://sites.google.com/view/neverendingrl/)_ (**Contributed Talk**).</span>
+<span style="font-size: 70%;">_ICLR 2021 Workshop on Never-Ending RL [$^{*}$](https://sites.google.com/view/neverendingrl/)_ (**Contributed Talk**).</span>
 
 1. <u>Hiroki Furuta</u>, Tadashi Kozuno, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A Unified View of Inference-based Off-Policy RL: Decoupling Algorithmic and Implementational Sources of Performance Differences**  <br>
-<span style="font-size: 80%;">_NeurIPS 2020 Deep Reinforcement Learning Workshop [$^{*}$](https://sites.google.com/view/deep-rl-workshop-neurips2020/)_.</span>
+<span style="font-size: 70%;">_NeurIPS 2020 Deep Reinforcement Learning Workshop [$^{*}$](https://sites.google.com/view/deep-rl-workshop-neurips2020/)_.</span>
 
 1. Tatsuya Matsushima\*, <u>Hiroki Furuta</u>\*, Yutaka Matsuo, Ofir Nachum, Shixiang Gu. (\*Equal Contribution)<br>
 **Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization**  <br>
-<span style="font-size: 80%;">_NeurIPS 2020 Offline Reinforcement Learning Workshop [$^{*}$](https://offline-rl-neurips.github.io/)_, and _Bay Area Machine Learning Symposium 2020 [$^{*}$](https://baylearn2020.splashthat.com/)_.</span>
+<span style="font-size: 70%;">
+_NeurIPS 2020 Offline Reinforcement Learning Workshop [$^{*}$](https://offline-rl-neurips.github.io/)_, <br>
+_Bay Area Machine Learning Symposium 2020 [$^{*}$](https://baylearn2020.splashthat.com/)_.
+</span>
