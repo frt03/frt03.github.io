@@ -7,6 +7,16 @@ author_profile: true
 <span style="font-size: 80%;">
 
 ## Conference Publications
+1. Izzeddin Gur\*, <u>Hiroki Furuta</u>\*, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust. (\*Equal Contribution)<br>
+**A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**  <br>
+_International Conference on Learning Representations (ICLR 2024)_ (**Oral**, 1.2% of 7262 submissions). <br>
+[[arxiv](https://arxiv.org/abs/2307.12856)]
+
+1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur. <br>
+**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**  <br>
+_International Conference on Learning Representations (ICLR 2024)_. <br>
+[[arxiv](https://arxiv.org/abs/2305.11854)] [[website](https://sites.google.com/view/mm-webnav/)]
+
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
 _International Conference on Learning Representations (ICLR 2023)_ (**Notable-top-25%**, 8.0% of 4966 submissions). <br>
@@ -51,16 +61,6 @@ _arXiv preprint arXiv:2311.18751_, 2023. <br>
 _arXiv preprint arXiv:2310.08864_, 2023. <br>
 [[arxiv](https://arxiv.org/abs/2310.08864)] [[website](https://robotics-transformer-x.github.io/)]
 
-1. Izzeddin Gur\*, <u>Hiroki Furuta</u>\*, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust. (\*Equal Contribution)<br>
-**A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**  <br>
-_arXiv preprint arXiv:2307.12856_, 2023. <br>
-[[arxiv](https://arxiv.org/abs/2307.12856)]
-
-1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur. <br>
-**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**  <br>
-_arXiv preprint arXiv:2305.11854_, 2023. <br>
-[[arxiv](https://arxiv.org/abs/2305.11854)] [[website](https://sites.google.com/view/mm-webnav/)]
-
 1. Shixiang Shane Gu, Manfred Diaz, C. Daniel Freeman, <u>Hiroki Furuta</u>, Seyed Kamyar Seyed Ghasemipour, Anton Raichuk, Byron David, Erik Frey, Erwin Coumans, Olivier Bachem. <br>
 **Braxlines: Fast and Interactive Toolkit for RL-driven Behavior Generation Beyond Reward Maximization**  <br>
 _arXiv preprint arXiv:2110.04686_, 2021. <br>
@@ -78,7 +78,7 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 _CoRL 2023 2nd Workshop on Language and Robot Learning (LangRob): Language as Grounding 
  [$^{*}$](https://sites.google.com/view/langrob-corl23/home/)_ <br>
 _CoRL 2023 Towards Generalist Robots:
-Learning Paradigms for Scalable Skill Acquisition (**Oral**) [$^{*}$](https://generalist-robots.github.io/)_ <br>
+Learning Paradigms for Scalable Skill Acquisition [$^{*}$](https://generalist-robots.github.io/)_ (**Oral**) <br>
 _NeurIPS 2023 6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models [$^{*}$](https://www.robot-learning.ml/2023/)_.
 </span>
 

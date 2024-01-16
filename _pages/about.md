@@ -27,18 +27,17 @@ _arXiv preprint arXiv:2311.18751_, 2023. <br>
 _arXiv preprint arXiv:2310.08864_, 2023. <br>
 [[arxiv](https://arxiv.org/abs/2310.08864)] [[website](https://robotics-transformer-x.github.io/)]
 
+## Conference Publications
 1. Izzeddin Gur\*, <u>Hiroki Furuta</u>\*, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust. (\*Equal Contribution)<br>
 **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**  <br>
-_arXiv preprint arXiv:2307.12856_, 2023. <br>
+_International Conference on Learning Representations (ICLR 2024)_ (**Oral**, 1.2% of 7262 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2307.12856)]
 
 1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur. <br>
 **Multimodal Web Navigation with Instruction-Finetuned Foundation Models**  <br>
-_arXiv preprint arXiv:2305.11854_, 2023. <br>
+_International Conference on Learning Representations (ICLR 2024)_. <br>
 [[arxiv](https://arxiv.org/abs/2305.11854)] [[website](https://sites.google.com/view/mm-webnav/)]
 
-
-## Conference Publications
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
 _International Conference on Learning Representations (ICLR 2023)_ (**Notable-top-25%**, 8% of 4966 submissions). <br>
