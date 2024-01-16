@@ -9,7 +9,7 @@ author_profile: true
 ## Conference Publications
 1. Izzeddin Gur\*, <u>Hiroki Furuta</u>\*, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust. (\*Equal Contribution)<br>
 **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**  <br>
-_International Conference on Learning Representations (ICLR 2024)_ (**Oral**, 1.2% of 7262 submissions). <br>
+_International Conference on Learning Representations (ICLR 2024)_ (<span style="color: tomato; ">**Oral**</span>, 1.2% of 7262 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2307.12856)]
 
 1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur. <br>
@@ -19,12 +19,12 @@ _International Conference on Learning Representations (ICLR 2024)_. <br>
 
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
-_International Conference on Learning Representations (ICLR 2023)_ (**Notable-top-25%**, 8.0% of 4966 submissions). <br>
+_International Conference on Learning Representations (ICLR 2023)_ (<span style="color: tomato; ">**Notable-top-25%**</span>, 8.0% of 4966 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2211.14296)] [[code](https://github.com/frt03/mxt_bench)] [[website](https://sites.google.com/view/control-graph)]
 
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Generalized Decision Transformer for Offline Hindsight Information Matching**  <br>
-_International Conference on Learning Representations (ICLR 2022)_ (**Spotlight**, 6.8% of 3391 submissions). <br>
+_International Conference on Learning Representations (ICLR 2022)_ (<span style="color: tomato; ">**Spotlight**</span>, 6.8% of 3391 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2111.10364)] [[code](https://github.com/frt03/generalized_dt)] [[website](https://sites.google.com/view/generalizeddt)]
 
 1. <u>Hiroki Furuta</u>, Tadashi Kozuno, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. <br>
@@ -78,14 +78,14 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 _CoRL 2023 2nd Workshop on Language and Robot Learning (LangRob): Language as Grounding 
  [$^{*}$](https://sites.google.com/view/langrob-corl23/home/)_ <br>
 _CoRL 2023 Towards Generalist Robots:
-Learning Paradigms for Scalable Skill Acquisition [$^{*}$](https://generalist-robots.github.io/)_ (**Oral**) <br>
+Learning Paradigms for Scalable Skill Acquisition [$^{*}$](https://generalist-robots.github.io/)_ (<span style="color: tomato; ">**Oral**</span>) <br>
 _NeurIPS 2023 6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models [$^{*}$](https://www.robot-learning.ml/2023/)_.
 </span>
 
 1. <u>Hiroki Furuta</u>, Ofir Nachum, Kuang-Huei Lee, Yutaka Matsuo, Shixiang Shane Gu, Izzeddin Gur. <br>
 **Instruction-Finetuned Foundation Models for Multimodal Web Navigation** <br>
 <span style="font-size: 70%;">
-_ICLR 2023 Workshop on Multimodal Representation Learning [$^{*}$](https://mrl-workshop.github.io/iclr-2023/)_ (**Spotlight**) <br>
+_ICLR 2023 Workshop on Multimodal Representation Learning [$^{*}$](https://mrl-workshop.github.io/iclr-2023/)_ (<span style="color: tomato; ">**Spotlight**</span>) <br>
 _ICLR 2023 Workshop on Mathematical and Empirical Understanding of Foundation Models [$^{*}$](https://sites.google.com/view/me-fomo2023)_ <br>
 _ICLR 2023 Workshop on Reincarnating Reinforcement Learning [$^{*}$](https://reincarnating-rl.github.io/)_.
 </span>
@@ -93,7 +93,7 @@ _ICLR 2023 Workshop on Reincarnating Reinforcement Learning [$^{*}$](https://rei
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Control Graph as Unified IO for Morphology-Task Generalization** <br>
 <span style="font-size: 70%;">
-_NeurIPS 2022 3rd Offline Reinforcement Learning Workshop: Offline RL as a "Launchpad" [$^{*}$](https://offline-rl-neurips.github.io/2022/)_ (**Contributed Talk**) <br>
+_NeurIPS 2022 3rd Offline Reinforcement Learning Workshop: Offline RL as a "Launchpad" [$^{*}$](https://offline-rl-neurips.github.io/2022/)_ (<span style="color: tomato; ">**Contributed Talk**</span>) <br>
 _NeurIPS 2022 Foundation Models for Decision Making Workshop [$^{*}$](https://sites.google.com/view/fmdm-neurips/)_.
 </span>
 
@@ -103,7 +103,7 @@ _NeurIPS 2022 Foundation Models for Decision Making Workshop [$^{*}$](https://si
 
 1. <u>Hiroki Furuta</u>, Tatsuya Matsushima, Tadashi Kozuno, Yutaka Matsuo, Sergey Levine, Ofir Nachum, Shixiang Shane Gu. <br>
 **Policy Information Capacity: Information-Theoretic Measure for Task Complexity in Deep Reinforcement Learning**  <br>
-<span style="font-size: 70%;">_ICLR 2021 Workshop on Never-Ending RL [$^{*}$](https://sites.google.com/view/neverendingrl/)_ (**Contributed Talk**).</span>
+<span style="font-size: 70%;">_ICLR 2021 Workshop on Never-Ending RL [$^{*}$](https://sites.google.com/view/neverendingrl/)_ (<span style="color: tomato; ">**Contributed Talk**</span>).</span>
 
 1. <u>Hiroki Furuta</u>, Tadashi Kozuno, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A Unified View of Inference-based Off-Policy RL: Decoupling Algorithmic and Implementational Sources of Performance Differences**  <br>
