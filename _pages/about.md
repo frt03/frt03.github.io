@@ -22,12 +22,12 @@ My research interest has focused on data-driven control towards real-world appli
 _arXiv preprint arXiv:2311.18751_, 2023. <br>
 [[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
 
+## Conference Publications
 1. Open X-Embodiment Collaboration, et al. <br>
 **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
-_arXiv preprint arXiv:2310.08864_, 2023. <br>
+_IEEE International Conference on Robotics and Automation (ICRA 2024)_. <br>
 [[arxiv](https://arxiv.org/abs/2310.08864)] [[website](https://robotics-transformer-x.github.io/)]
 
-## Conference Publications
 1. Izzeddin Gur\*, <u>Hiroki Furuta</u>\*, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust. (\*Equal Contribution)<br>
 **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**  <br>
 _International Conference on Learning Representations (ICLR 2024)_ (<span style="color: tomato; ">**Oral**</span>, 1.2% of 7262 submissions). <br>
