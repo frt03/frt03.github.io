@@ -17,8 +17,13 @@ My research interest has focused on data-driven control towards real-world appli
 
 
 ## Recent Preprints
+1. Kuang-Huei Lee, Xinyun Chen, <u>Hiroki Furuta</u>, John Canny, Ian Fischer. <br>
+**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**  <br>
+_arXiv preprint arXiv:2402.09727_, 2024. <br>
+[[arxiv](https://arxiv.org/abs/2402.09727)] [[website](https://read-agent.github.io/)]
+
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
-**Language Model Agents Suffer from Compositional Generalization in Web Automation**  <br>
+**Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
 _arXiv preprint arXiv:2311.18751_, 2023. <br>
 [[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
 
