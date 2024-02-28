@@ -17,6 +17,11 @@ My research interest has focused on data-driven control towards real-world appli
 
 
 ## Recent Preprints
+1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Interpreting Grokked Transformers in Complex Modular Arithmetic**  <br>
+_arXiv preprint arXiv:2402.16726_, 2024. <br>
+[[arxiv](https://arxiv.org/abs/2402.16726)] [[code](https://github.com/frt03/grok_mod_poly)]
+
 1. Kuang-Huei Lee, Xinyun Chen, <u>Hiroki Furuta</u>, John Canny, Ian Fischer. <br>
 **A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**  <br>
 _arXiv preprint arXiv:2402.09727_, 2024. <br>
