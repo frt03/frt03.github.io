@@ -78,6 +78,11 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 
 
 ## Workshop Presentations
+1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Interpreting Grokked Transformers in Complex Modular Arithmetic**  <br>
+<span style="font-size: 70%;">_ICLR 2024 Workshop Bridging the Gap Between Practice and Theory in Deep Learning [$^{*}$](https://sites.google.com/view/bgpt-iclr24)_ (<span style="color: tomato; ">**Oral**</span>). </span> 
+
+
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
 **Language Model Agents Suffer from Compositional Generalization in Web Automation**  <br>
 <span style="font-size: 70%;">_NeurIPS 2023 Foundation Models for Decision Making Workshop [$^{*}$](https://sites.google.com/view/fmdm-neurips23/)_.</span>

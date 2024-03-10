@@ -20,6 +20,7 @@ My research interest has focused on data-driven control towards real-world appli
 1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Interpreting Grokked Transformers in Complex Modular Arithmetic**  <br>
 _arXiv preprint arXiv:2402.16726_, 2024. <br>
+<span style="font-size: 70%;">_ICLR 2024 Workshop Bridging the Gap Between Practice and Theory in Deep Learning [$^{*}$](https://sites.google.com/view/bgpt-iclr24)_ (<span style="color: tomato; ">**Oral**</span>). </span> <br>
 [[arxiv](https://arxiv.org/abs/2402.16726)] [[code](https://github.com/frt03/grok_mod_poly)]
 
 1. Kuang-Huei Lee, Xinyun Chen, <u>Hiroki Furuta</u>, John Canny, Ian Fischer. <br>
