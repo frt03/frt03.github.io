@@ -78,14 +78,23 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 
 
 ## Workshop Presentations
+1. Kuang-Huei Lee, Xinyun Chen, <u>Hiroki Furuta</u>, John Canny, Ian Fischer. <br>
+**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**  <br>
+<span style="font-size: 70%;">
+_ICLR 2024 Workshop on Large Language Model (LLM) Agents [$^{*}$](https://llmagents.github.io/)_
+</span>
+
 1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Interpreting Grokked Transformers in Complex Modular Arithmetic**  <br>
 <span style="font-size: 70%;">_ICLR 2024 Workshop Bridging the Gap Between Practice and Theory in Deep Learning [$^{*}$](https://sites.google.com/view/bgpt-iclr24)_ (<span style="color: tomato; ">**Oral**</span>). </span> 
 
 
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
-**Language Model Agents Suffer from Compositional Generalization in Web Automation**  <br>
-<span style="font-size: 70%;">_NeurIPS 2023 Foundation Models for Decision Making Workshop [$^{*}$](https://sites.google.com/view/fmdm-neurips23/)_.</span>
+**Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
+<span style="font-size: 70%;">
+_NeurIPS 2023 Foundation Models for Decision Making Workshop [$^{*}$](https://sites.google.com/view/fmdm-neurips23/)_  <br>
+_ICLR 2024 Workshop on Large Language Model (LLM) Agents [$^{*}$](https://llmagents.github.io/)_
+</span>
 
 1. Open X-Embodiment Collaboration, et al. <br>
 **Open X-Embodiment: Robotic Learning Datasets and RT-X Models** <br>
