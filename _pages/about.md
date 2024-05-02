@@ -13,8 +13,13 @@ I am a Ph.D. student in Technology Management for Innovation at The University o
 
 
 
-My research interest has focused on data-driven control towards real-world applications (e.g. robotics, web automation), and scalable decision making with large-scale foundation models.
+My research interest has focused on data-driven control and agentization towards real-world applications (e.g. robotics, web automation), and scalable decision making with large-scale foundation models.
 
+---
+
+<span style="color: tomato; ">I'm looking for the research scientist role in industry or academia after graduation (from April, 2025). Please feel free to reach out to me if you are interested in my works.</span>
+
+I'll participate in ICLR 2024 in Vienna. Looking forward to seeing you and discussing the research there!
 
 ## Recent Preprints
 1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
