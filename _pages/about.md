@@ -23,17 +23,17 @@ _arXiv preprint arXiv:2402.16726_, 2024. <br>
 <span style="font-size: 70%;">_ICLR 2024 Workshop Bridging the Gap Between Practice and Theory in Deep Learning [$^{*}$](https://sites.google.com/view/bgpt-iclr24)_ (<span style="color: tomato; ">**Oral**</span>). </span> <br>
 [[arxiv](https://arxiv.org/abs/2402.16726)] [[code](https://github.com/frt03/grok_mod_poly)]
 
-1. Kuang-Huei Lee, Xinyun Chen, <u>Hiroki Furuta</u>, John Canny, Ian Fischer. <br>
-**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**  <br>
-_arXiv preprint arXiv:2402.09727_, 2024. <br>
-[[arxiv](https://arxiv.org/abs/2402.09727)] [[website](https://read-agent.github.io/)]
-
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
 **Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
 _arXiv preprint arXiv:2311.18751_, 2023. <br>
 [[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
 
 ## Conference Publications
+1. Kuang-Huei Lee, Xinyun Chen, <u>Hiroki Furuta</u>, John Canny, Ian Fischer. <br>
+**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**  <br>
+_International Conference on Machine Learning (ICML 2024)_. <br>
+[[arxiv](https://arxiv.org/abs/2402.09727)] [[website](https://read-agent.github.io/)]
+
 1. Open X-Embodiment Collaboration, et al. <br>
 **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
 _IEEE International Conference on Robotics and Automation (ICRA 2024)_. <br>
