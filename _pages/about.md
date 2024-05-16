@@ -19,7 +19,6 @@ My research interest has focused on data-driven control and agentization towards
 
 <span style="color: tomato; ">I'm looking for the research scientist role in industry or academia after graduation (from April, 2025). Please feel free to reach out to me if you are interested in my works.</span>
 
-I'll participate in ICLR 2024 in Vienna. Looking forward to seeing you and discussing the research there!
 
 ## Recent Preprints
 1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
@@ -41,7 +40,7 @@ _International Conference on Machine Learning (ICML 2024)_. <br>
 
 1. Open X-Embodiment Collaboration, et al. <br>
 **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
-_IEEE International Conference on Robotics and Automation (ICRA 2024)_. <br>
+_IEEE International Conference on Robotics and Automation (ICRA 2024)_ (<span style="color: tomato; ">**Best Conference Paper Award**</span>). <br>
 [[arxiv](https://arxiv.org/abs/2310.08864)] [[website](https://robotics-transformer-x.github.io/)]
 
 1. Izzeddin Gur\*, <u>Hiroki Furuta</u>\*, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust. (\*Equal Contribution)<br>
