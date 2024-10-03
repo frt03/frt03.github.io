@@ -33,6 +33,11 @@ _arXiv preprint arXiv:2311.18751_, 2023. <br>
 [[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
 
 ## Conference Publications
+1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Shixiang Shane Gu, Yutaka Matsuo, Aleksandra Faust, Heiga Zen, Izzeddin Gur. <br>
+**Geometric-Averaged Preference Optimization for Soft Preference Labels**  <br>
+_Neural Information Processing Systems (NeurIPS 2024)_. <br>
+[[arxiv](https://arxiv.org/abs/2409.06691)]
+
 1. Kuang-Huei Lee, Xinyun Chen, <u>Hiroki Furuta</u>, John Canny, Ian Fischer. <br>
 **A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**  <br>
 _International Conference on Machine Learning (ICML 2024)_. <br>
@@ -96,9 +101,9 @@ Please check [Publications](./publications.md) for further details.
 
 
 ## Academic Activitites
-1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2023 <span style="font-size: 80%;">(**Top Reviewer**)</span>.
+1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2023 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2024.
 
-1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024.
+1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024, 2025.
 
 1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023, 2024.
 

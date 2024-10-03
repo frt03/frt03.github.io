@@ -7,6 +7,11 @@ author_profile: true
 <span style="font-size: 80%;">
 
 ## Conference Publications
+1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Shixiang Shane Gu, Yutaka Matsuo, Aleksandra Faust, Heiga Zen, Izzeddin Gur. <br>
+**Geometric-Averaged Preference Optimization for Soft Preference Labels**  <br>
+_Neural Information Processing Systems (NeurIPS 2024)_. <br>
+[[arxiv](https://arxiv.org/abs/2409.06691)]
+
 1. Kuang-Huei Lee, Xinyun Chen, <u>Hiroki Furuta</u>, John Canny, Ian Fischer. <br>
 **A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**  <br>
 _International Conference on Machine Learning (ICML 2024)_. <br>
