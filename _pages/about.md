@@ -21,12 +21,6 @@ My research interest has focused on data-driven control and agentization towards
 
 
 ## Recent Preprints
-1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
-**Interpreting Grokked Transformers in Complex Modular Arithmetic**  <br>
-_arXiv preprint arXiv:2402.16726_, 2024. <br>
-<span style="font-size: 70%;">_ICLR 2024 Workshop Bridging the Gap Between Practice and Theory in Deep Learning [$^{*}$](https://sites.google.com/view/bgpt-iclr24)_ (<span style="color: tomato; ">**Oral**</span>). </span> <br>
-[[arxiv](https://arxiv.org/abs/2402.16726)] [[code](https://github.com/frt03/grok_mod_poly)]
-
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
 **Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
 _arXiv preprint arXiv:2311.18751_, 2023. <br>
@@ -85,6 +79,11 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 
 
 ## Journal Publications
+1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Towards Empirical Interpretation of Internal Circuits and Properties in Grokked Transformers on Modular Polynomials**  <br>
+_Transactions on Machine Learning Research (TMLR)_, 2024. <br>
+[[arxiv](https://arxiv.org/abs/2402.16726)] [[code](https://github.com/frt03/grok_mod_poly)]
+
 1. So Kuroki, Tatsuya Matsushima, Junpei Arima, <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu, Yujin Tang. <br>
 **Collective Intelligence for 2D Push Manipulations With Mobile Robots** <br>
 _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
