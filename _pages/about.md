@@ -15,12 +15,13 @@ I am a Ph.D. student in Technology Management for Innovation at The University o
 
 My research interest has focused on data-driven control and agentization towards real-world applications (e.g. robotics, web automation), and scalable decision making with large-scale foundation models.
 
----
-
-<span style="color: tomato; ">I'm looking for the research scientist role in industry or academia after graduation (from April, 2025). Please feel free to reach out to me if you are interested in my works.</span>
-
 
 ## Recent Preprints
+1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
+**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
+_arXiv preprint arXiv:2412.02617_, 2024. <br>
+[[arxiv](https://arxiv.org/abs/2412.02617)] [[website](https://sites.google.com/view/aif-dynamic-t2v/)]
+
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
 **Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
 _arXiv preprint arXiv:2311.18751_, 2023. <br>

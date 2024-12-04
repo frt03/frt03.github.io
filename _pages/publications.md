@@ -71,6 +71,11 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 
 
 ## Preprints
+1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
+**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
+_arXiv preprint arXiv:2412.02617_, 2024. <br>
+[[arxiv](https://arxiv.org/abs/2412.02617)] [[website](https://sites.google.com/view/aif-dynamic-t2v/)]
+
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
 **Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
 _arXiv preprint arXiv:2311.18751_, 2023. <br>
