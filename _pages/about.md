@@ -105,7 +105,9 @@ Please check [Publications](./publications.md) for further details.
 
 1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024, 2025.
 
-1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023, 2024.
+1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023, 2024, 2025.
+
+1. Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 
 1. Reviewer for Transactions on Machine Learning Research (TMLR).
 
