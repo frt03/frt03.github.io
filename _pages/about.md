@@ -22,11 +22,6 @@ My research interest has focused on data-driven control and agentization towards
 _arXiv preprint arXiv:2412.02617_, 2024. <br>
 [[arxiv](https://arxiv.org/abs/2412.02617)] [[website](https://sites.google.com/view/aif-dynamic-t2v/)]
 
-1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
-**Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
-_arXiv preprint arXiv:2311.18751_, 2023. <br>
-[[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
-
 ## Conference Publications
 1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Shixiang Shane Gu, Yutaka Matsuo, Aleksandra Faust, Heiga Zen, Izzeddin Gur. <br>
 **Geometric-Averaged Preference Optimization for Soft Preference Labels**  <br>
@@ -80,6 +75,11 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 
 
 ## Journal Publications
+1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
+**Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
+_Transactions on Machine Learning Research (TMLR)_, 2024. <br>
+[[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
+
 1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Towards Empirical Interpretation of Internal Circuits and Properties in Grokked Transformers on Modular Polynomials**  <br>
 _Transactions on Machine Learning Research (TMLR)_, 2024. <br>
@@ -121,12 +121,12 @@ Please check [Publications](./publications.md) for further details.
 ## Honors & Awards
 - Forbes JAPAN 30 UNDER 30 2023 <span style="font-size: 80%;">_(August, 2023)_</span>
 - The Japan Society for the Promotion of Science Research Fellow (DC1) <span style="font-size: 80%;">_(April, 2022 - March, 2025)_</span>
-- Dean’s Award <span style="font-size: 80%;">_(from Graduate School of Engineering, The University of Tokyo, 2022)_</span>
+- Dean’s Award (Master) <span style="font-size: 80%;">_(from Graduate School of Engineering, The University of Tokyo, 2022)_</span>
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher <span style="font-size: 80%;">_(April, 2021 - March, 2022)_</span>
 
 
 ## Education & Experience
 - Student Researcher at Google DeepMind <span style="font-size: 80%;">_(June, 2023 - Present)_</span>
-- Student Researcher at Google Research, Brain Team <span style="font-size: 80%;">_(July, 2022 - May, 2022)_</span>
+- Student Researcher at Google Research, Brain Team <span style="font-size: 80%;">_(July, 2022 - May, 2023)_</span>
 - MEng from The University of Tokyo <span style="font-size: 80%;">_(March, 2022)_</span>
 - BEng from The University of Tokyo <span style="font-size: 80%;">_(March, 2020)_</span>

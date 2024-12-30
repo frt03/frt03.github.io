@@ -59,6 +59,11 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 
 
 ## Journal Publications
+1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
+**Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
+_Transactions on Machine Learning Research (TMLR)_, 2024. <br>
+[[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
+
 1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Towards Empirical Interpretation of Internal Circuits and Properties in Grokked Transformers on Modular Polynomials**  <br>
 _Transactions on Machine Learning Research (TMLR)_, 2024. <br>
@@ -75,11 +80,6 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
 _arXiv preprint arXiv:2412.02617_, 2024. <br>
 [[arxiv](https://arxiv.org/abs/2412.02617)] [[website](https://sites.google.com/view/aif-dynamic-t2v/)]
-
-1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
-**Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
-_arXiv preprint arXiv:2311.18751_, 2023. <br>
-[[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
 
 1. Shixiang Shane Gu, Manfred Diaz, C. Daniel Freeman, <u>Hiroki Furuta</u>, Seyed Kamyar Seyed Ghasemipour, Anton Raichuk, Byron David, Erik Frey, Erwin Coumans, Olivier Bachem. <br>
 **Braxlines: Fast and Interactive Toolkit for RL-driven Behavior Generation Beyond Reward Maximization**  <br>
