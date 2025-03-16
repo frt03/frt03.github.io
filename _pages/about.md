@@ -9,20 +9,43 @@ redirect_from:
 ---
 <span style="font-size: 80%;">
 
-I am a Ph.D. student in Technology Management for Innovation at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/). I am also a Student Researcher at Google DeepMind, hosted by [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) and [Izzeddin Gur](https://scholar.google.com/citations?user=qS_ugJAAAAAJ). I was also received BEng and MEng at The University of Tokyo, and closely mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
+I am a research scientist at Google DeepMind, Japan, working mainly on LLM agents and alignment for diffusion models.
+I am also a Ph.D. student in Technology Management for Innovation at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/).
+I received BEng and MEng at The University of Tokyo and was closely mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
+I was a Student Researcher at Google DeepMind, hosted by [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) and [Izzeddin Gur](https://scholar.google.com/citations?user=qS_ugJAAAAAJ).
 
 
-
-My research interest has focused on data-driven control and agentization towards real-world applications (e.g. robotics, web automation), and scalable decision making with large-scale foundation models.
+My recent research interest has focused on **AI agents** driven by multimodal LLMs for real-world applications (e.g., robotics, web navigation), **AI alignment** through deep reinforcement learning, and **mechanistic interpretablebility** of LLMs.
 
 
 ## Recent Preprints
+
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Shohei Taniguchi, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**In-Context Meta Learning Induces Multi-Phase Circuit Emergence**  <br>
+<span style="font-size: 70%;">_ICLR 2025 Workshop on Building Trust in Language Models and Applications [$^{*}$](https://building-trust-in-llms.github.io/iclr-workshop/)_.</span>  <br>
+[[openreview](https://openreview.net/forum?id=LNMfzv8TNb)]
+
+1. Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, Suhong Moon, <u>Hiroki Furuta</u>, Gopala Anumanchipalli, Kurt Keutzer, Amir Gholami. <br>
+**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks** <br>
+_arXiv preprint arXiv:2503.09572_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2503.09572)]
+
+1. Yuta Oshima, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** <br>
+_arXiv preprint arXiv:2501.19252_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2501.19252)]
+
 1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
 **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
 _arXiv preprint arXiv:2412.02617_, 2024. <br>
 [[arxiv](https://arxiv.org/abs/2412.02617)] [[website](https://sites.google.com/view/aif-dynamic-t2v/)]
 
 ## Conference Publications
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words**  <br>
+_International Conference on Learning Representations (ICLR 2025)_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2501.06254)] [[code](https://github.com/gouki510/PS-Eval)]
+
 1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Shixiang Shane Gu, Yutaka Matsuo, Aleksandra Faust, Heiga Zen, Izzeddin Gur. <br>
 **Geometric-Averaged Preference Optimization for Soft Preference Labels**  <br>
 _Neural Information Processing Systems (NeurIPS 2024)_. <br>
@@ -33,7 +56,7 @@ _Neural Information Processing Systems (NeurIPS 2024)_. <br>
 _International Conference on Machine Learning (ICML 2024)_. <br>
 [[arxiv](https://arxiv.org/abs/2402.09727)] [[website](https://read-agent.github.io/)]
 
-1. Open X-Embodiment Collaboration, et al. <br>
+1. Open X-Embodiment Collaboration, et al. (including <u>Hiroki Furuta</u>) <br>
 **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
 _IEEE International Conference on Robotics and Automation (ICRA 2024)_ (<span style="color: tomato; ">**Best Conference Paper Award**</span>). <br>
 [[arxiv](https://arxiv.org/abs/2310.08864)] [[website](https://robotics-transformer-x.github.io/)]
@@ -121,12 +144,13 @@ Please check [Publications](./publications.md) for further details.
 ## Honors & Awards
 - Forbes JAPAN 30 UNDER 30 2023 <span style="font-size: 80%;">_(August, 2023)_</span>
 - The Japan Society for the Promotion of Science Research Fellow (DC1) <span style="font-size: 80%;">_(April, 2022 - March, 2025)_</span>
-- Dean’s Award (Master) <span style="font-size: 80%;">_(from Graduate School of Engineering, The University of Tokyo, 2022)_</span>
+- Dean's Award (Master) <span style="font-size: 80%;">_(from Graduate School of Engineering, The University of Tokyo, 2022)_</span>
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher <span style="font-size: 80%;">_(April, 2021 - March, 2022)_</span>
 
 
 ## Education & Experience
-- Student Researcher at Google DeepMind <span style="font-size: 80%;">_(June, 2023 - Present)_</span>
+- Research Scientist at Google DeepMind <span style="font-size: 80%;">_(2025 - Present)_</span>
+- Student Researcher at Google DeepMind <span style="font-size: 80%;">_(May, 2023 - 2025)_</span>
 - Student Researcher at Google Research, Brain Team <span style="font-size: 80%;">_(July, 2022 - May, 2023)_</span>
 - MEng from The University of Tokyo <span style="font-size: 80%;">_(March, 2022)_</span>
 - BEng from The University of Tokyo <span style="font-size: 80%;">_(March, 2020)_</span>

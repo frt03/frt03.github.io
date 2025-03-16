@@ -7,6 +7,11 @@ author_profile: true
 <span style="font-size: 80%;">
 
 ## Conference Publications
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words**  <br>
+_International Conference on Learning Representations (ICLR 2025)_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2501.06254)] [[code](https://github.com/gouki510/PS-Eval)]
+
 1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Shixiang Shane Gu, Yutaka Matsuo, Aleksandra Faust, Heiga Zen, Izzeddin Gur. <br>
 **Geometric-Averaged Preference Optimization for Soft Preference Labels**  <br>
 _Neural Information Processing Systems (NeurIPS 2024)_. <br>
@@ -17,9 +22,9 @@ _Neural Information Processing Systems (NeurIPS 2024)_. <br>
 _International Conference on Machine Learning (ICML 2024)_. <br>
 [[arxiv](https://arxiv.org/abs/2402.09727)] [[website](https://read-agent.github.io/)]
 
-1. Open X-Embodiment Collaboration, et al. <br>
+1. Open X-Embodiment Collaboration, et al. (including <u>Hiroki Furuta</u>) <br>
 **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
-_IEEE International Conference on Robotics and Automation (ICRA 2024)_. <br>
+_IEEE International Conference on Robotics and Automation (ICRA 2024)_ (<span style="color: tomato; ">**Best Conference Paper Award**</span>). <br>
 [[arxiv](https://arxiv.org/abs/2310.08864)] [[website](https://robotics-transformer-x.github.io/)]
 
 1. Izzeddin Gur\*, <u>Hiroki Furuta</u>\*, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust. (\*Equal Contribution)<br>
@@ -76,6 +81,16 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 
 
 ## Preprints
+1. Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, Suhong Moon, <u>Hiroki Furuta</u>, Gopala Anumanchipalli, Kurt Keutzer, Amir Gholami. <br>
+**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks** <br>
+_arXiv preprint arXiv:2503.09572_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2503.09572)]
+
+1. Yuta Oshima, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** <br>
+_arXiv preprint arXiv:2501.19252_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2501.19252)]
+
 1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
 **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
 _arXiv preprint arXiv:2412.02617_, 2024. <br>
@@ -88,6 +103,10 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 
 
 ## Workshop Presentations
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Shohei Taniguchi, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**In-Context Meta Learning Induces Multi-Phase Circuit Emergence**  <br>
+<span style="font-size: 70%;">_ICLR 2025 Workshop on Building Trust in Language Models and Applications [$^{*}$](https://building-trust-in-llms.github.io/iclr-workshop/)_.</span>
+
 1. Kuang-Huei Lee, Xinyun Chen, <u>Hiroki Furuta</u>, John Canny, Ian Fischer. <br>
 **A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**  <br>
 <span style="font-size: 70%;">
