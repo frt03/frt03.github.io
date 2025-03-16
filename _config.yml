@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hiroki Furuta"
   avatar           : "profile_2022.jpeg"  # "profile.png"
-  bio              : "Ph.D. Student at The University of Tokyo"
+  bio              : "Research Scientist at Google DeepMind"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=M0OhM1UAAAAJ&hl=en"
-  email            : "furuta@weblab.t.u-tokyo.ac.jp"
+  email            : "hirokifuruta@google.com"
   researchgate     : # ""
   uri              :
   bitbucket        :
