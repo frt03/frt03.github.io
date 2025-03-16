@@ -8,15 +8,15 @@ author_profile: true
 <span style="font-size: 80%;">
 
 ## プロフィール
-東京大学工学系研究科 技術経営戦略学専攻 博士課程在籍 (指導教員: [松尾 豊](http://ymatsuo.com/japanese/)). 日本学術振興会 特別研究員 (DC1).
+Research Scientist at Google DeepMind, Japan. 東京大学工学系研究科 技術経営戦略学専攻 博士課程在籍 (指導教員: [松尾 豊](http://ymatsuo.com/japanese/)).
 
 
 ## 興味
+- AIエージェント, 言語モデルエージェント (AI Agent, LLM Agent)
+- AIアラインメント (AI Alignment, RLHF)
+- 機構的解釈性 (Mechanistic Interpretability)
 - 大規模言語モデル (LLM)
-- 言語モデルエージェント (LLM Agent, LM Agent)
-- Reinforcement Learning from Human Feedback (RLHF)
-- 深層強化学習
-- オフライン強化学習
+- 深層強化学習・ロボット学習
 
 
 ## 業績
