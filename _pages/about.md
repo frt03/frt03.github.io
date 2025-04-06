@@ -44,7 +44,7 @@ _arXiv preprint arXiv:2412.02617_, 2024. <br>
 
 1. Gouki Minegishi, <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words**  <br>
-_International Conference on Learning Representations (ICLR 2025)_, 2025. <br>
+_International Conference on Learning Representations (ICLR 2025)_. <br>
 [[arxiv](https://arxiv.org/abs/2501.06254)] [[code](https://github.com/gouki510/PS-Eval)]
 
 1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Shixiang Shane Gu, Yutaka Matsuo, Aleksandra Faust, Heiga Zen, Izzeddin Gur. <br>
