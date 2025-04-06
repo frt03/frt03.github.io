@@ -9,9 +9,8 @@ redirect_from:
 ---
 <span style="font-size: 80%;">
 
-I am a research scientist at Google DeepMind, Japan, working mainly on LLM agents and alignment for diffusion models.
-I am also a Ph.D. student in Technology Management for Innovation at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/).
-I received BEng and MEng at The University of Tokyo and was closely mentored by [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
+I am a research scientist at Google DeepMind, Japan, working mainly on multimodal AI agents and alignment for diffusion models.
+I received Ph.D. at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/). I also received BEng and MEng at The University of Tokyo, advised by Yutaka Matsuo and closely collaborated with [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
 I was a Student Researcher at Google DeepMind, hosted by [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) and [Izzeddin Gur](https://scholar.google.com/citations?user=qS_ugJAAAAAJ).
 
 
@@ -40,7 +39,9 @@ _arXiv preprint arXiv:2501.19252_, 2025. <br>
 _arXiv preprint arXiv:2412.02617_, 2024. <br>
 [[arxiv](https://arxiv.org/abs/2412.02617)] [[website](https://sites.google.com/view/aif-dynamic-t2v/)]
 
+
 ## Conference Publications
+
 1. Gouki Minegishi, <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words**  <br>
 _International Conference on Learning Representations (ICLR 2025)_, 2025. <br>
@@ -98,6 +99,7 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 
 
 ## Journal Publications
+
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
 **Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
 _Transactions on Machine Learning Research (TMLR)_, 2024. <br>
@@ -118,12 +120,14 @@ Please check [Publications](./publications.md) for further details.
 
 
 ## Talks
+
 1. Hiroki Furuta. "Opportunities and Challenges of Language Model Agents in Web Automation". Berkeley Artificial Intelligence Research Lab, 2023.
 
 1. Hiroki Furuta. "Co-Adaptation of Algorithmic and Implementational Innovations in Inference-based Deep Reinforcement Learning". NeurIPS Meetup Japan 2021 [$^{*}$](https://neuripsmeetup.jp/2021/), 2021.
 
 
 ## Academic Activitites
+
 1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2023 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2024.
 
 1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024, 2025.
@@ -131,6 +135,10 @@ Please check [Publications](./publications.md) for further details.
 1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023, 2024, 2025.
 
 1. Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+1. Reviewer for International Conference on Computer Vision (ICCV), 2025.
+
+1. Reviewer for Association for Computational Linguistics (ACL) Rolling Review, 2025.
 
 1. Reviewer for Transactions on Machine Learning Research (TMLR).
 
@@ -142,6 +150,8 @@ Please check [Publications](./publications.md) for further details.
 
 
 ## Honors & Awards
+
+- Dean's Award (Ph.D.) <span style="font-size: 80%;">_(from Graduate School of Engineering, The University of Tokyo, 2025)_</span>
 - Forbes JAPAN 30 UNDER 30 2023 <span style="font-size: 80%;">_(August, 2023)_</span>
 - The Japan Society for the Promotion of Science Research Fellow (DC1) <span style="font-size: 80%;">_(April, 2022 - March, 2025)_</span>
 - Dean's Award (Master) <span style="font-size: 80%;">_(from Graduate School of Engineering, The University of Tokyo, 2022)_</span>
@@ -149,7 +159,9 @@ Please check [Publications](./publications.md) for further details.
 
 
 ## Education & Experience
+
 - Research Scientist at Google DeepMind <span style="font-size: 80%;">_(2025 - Present)_</span>
+- Ph.D. from The University of Tokyo <span style="font-size: 80%;">_(March, 2025)_</span>
 - Student Researcher at Google DeepMind <span style="font-size: 80%;">_(May, 2023 - 2025)_</span>
 - Student Researcher at Google Research, Brain Team <span style="font-size: 80%;">_(July, 2022 - May, 2023)_</span>
 - MEng from The University of Tokyo <span style="font-size: 80%;">_(March, 2022)_</span>
