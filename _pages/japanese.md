@@ -43,7 +43,7 @@ Research Scientist at Google DeepMind, Japan. 博士（工学）.
 
 ## 表彰等
 - 工学系研究科長賞（研究・博士課程）<span style="font-size: 80%;">(2025年 3月)</span>
-- Forbes JAPAN 30 UNDER 30 2023 <span style="font-size: 80%;">_(2023年 8月)_</span>
+- Forbes JAPAN 30 UNDER 30 2023 <span style="font-size: 80%;">(2023年 8月)</span>
 - 日本学術振興会 特別研究員 (DC1) <span style="font-size: 80%;">(2022年 4月 - 2025年 3月)</span>
 - 工学系研究科長賞（研究・修士課程）<span style="font-size: 80%;">(2022年 3月)</span>
 - トヨタ・ドワンゴ高度人工知能人材奨学金 <span style="font-size: 80%;">(2021年 4月 - 2022年 3月)</span>

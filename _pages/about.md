@@ -19,16 +19,6 @@ My recent research interest has focused on **AI agents** driven by multimodal LL
 
 ## Recent Preprints
 
-1. Gouki Minegishi, <u>Hiroki Furuta</u>, Shohei Taniguchi, Yusuke Iwasawa, Yutaka Matsuo. <br>
-**In-Context Meta Learning Induces Multi-Phase Circuit Emergence**  <br>
-<span style="font-size: 70%;">_ICLR 2025 Workshop on Building Trust in Language Models and Applications [$^{*}$](https://building-trust-in-llms.github.io/iclr-workshop/)_.</span>  <br>
-[[openreview](https://openreview.net/forum?id=LNMfzv8TNb)]
-
-1. Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, Suhong Moon, <u>Hiroki Furuta</u>, Gopala Anumanchipalli, Kurt Keutzer, Amir Gholami. <br>
-**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks** <br>
-_arXiv preprint arXiv:2503.09572_, 2025. <br>
-[[arxiv](https://arxiv.org/abs/2503.09572)]
-
 1. Yuta Oshima, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
 **Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** <br>
 _arXiv preprint arXiv:2501.19252_, 2025. <br>
@@ -41,6 +31,16 @@ _arXiv preprint arXiv:2412.02617_, 2024. <br>
 
 
 ## Conference Publications
+
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Shohei Taniguchi, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**In-Context Meta Learning Induces Multi-Phase Circuit Emergence**  <br>
+_International Conference on Machine Learning (ICML 2025)_. <br>
+[[openreview](https://openreview.net/forum?id=LNMfzv8TNb)]
+
+1. Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, Suhong Moon, <u>Hiroki Furuta</u>, Gopala Anumanchipalli, Kurt Keutzer, Amir Gholami. <br>
+**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks** <br>
+_International Conference on Machine Learning (ICML 2025)_. <br>
+[[arxiv](https://arxiv.org/abs/2503.09572)]
 
 1. Gouki Minegishi, <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words**  <br>
@@ -144,6 +144,8 @@ Please check [Publications](./publications.md) for further details.
 
 1. Reviewer for Advanced Robotics (AR).
 
+1. Co-organizer for Workshop on Building Physically Plausible World Models at ICML [2025](https://physical-world-modeling.github.io/).
+
 1. Co-organizer for Ecological Theory of RL Workshop at NeurIPS [2021](https://sites.google.com/view/ecorl2021).
 
 1. Program Committee for Foundation Models for Decision Making Workshop at NeurIPS [2022](https://sites.google.com/view/fmdm-neurips/), [2023](https://sites.google.com/view/fmdm-neurips23/).
@@ -160,9 +162,9 @@ Please check [Publications](./publications.md) for further details.
 
 ## Education & Experience
 
-- Research Scientist at Google DeepMind <span style="font-size: 80%;">_(2025 - Present)_</span>
+- Research Scientist at Google DeepMind <span style="font-size: 80%;">_(Jan, 2025 - Present)_</span>
 - Ph.D. from The University of Tokyo <span style="font-size: 80%;">_(March, 2025)_</span>
-- Student Researcher at Google DeepMind <span style="font-size: 80%;">_(May, 2023 - 2025)_</span>
+- Student Researcher at Google DeepMind <span style="font-size: 80%;">_(May, 2023 - Jan, 2025)_</span>
 - Student Researcher at Google Research, Brain Team <span style="font-size: 80%;">_(July, 2022 - May, 2023)_</span>
 - MEng from The University of Tokyo <span style="font-size: 80%;">_(March, 2022)_</span>
 - BEng from The University of Tokyo <span style="font-size: 80%;">_(March, 2020)_</span>
