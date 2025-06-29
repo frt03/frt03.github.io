@@ -19,6 +19,11 @@ My recent research interest has focused on **AI agents** driven by multimodal LL
 
 ## Recent Preprints
 
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties**  <br>
+_arXiv preprint arXiv:2501.19252_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2506.05744)]
+
 1. Yuta Oshima, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
 **Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** <br>
 _arXiv preprint arXiv:2501.19252_, 2025. <br>
@@ -33,9 +38,9 @@ _arXiv preprint arXiv:2412.02617_, 2024. <br>
 ## Conference Publications
 
 1. Gouki Minegishi, <u>Hiroki Furuta</u>, Shohei Taniguchi, Yusuke Iwasawa, Yutaka Matsuo. <br>
-**In-Context Meta Learning Induces Multi-Phase Circuit Emergence**  <br>
+**Beyond Induction Heads: In-Context Meta Learning Induces Multi-Phase Circuit Emergence**  <br>
 _International Conference on Machine Learning (ICML 2025)_. <br>
-[[openreview](https://openreview.net/forum?id=LNMfzv8TNb)]
+[[arxiv](https://arxiv.org/abs/2505.16694)]
 
 1. Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, Suhong Moon, <u>Hiroki Furuta</u>, Gopala Anumanchipalli, Kurt Keutzer, Amir Gholami. <br>
 **Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks** <br>
