@@ -133,7 +133,7 @@ Please check [Publications](./publications.md) for further details.
 
 ## Academic Activitites
 
-1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2023 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2024.
+1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2023 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2024, 2025.
 
 1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024, 2025.
 
