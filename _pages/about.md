@@ -149,6 +149,8 @@ Please check [Publications](./publications.md) for further details.
 
 1. Reviewer for Advanced Robotics (AR).
 
+1. Co-organizer for Workshop on Robotics World Modeling at CoRL [2025](https://robot-world-modeling.github.io/).
+
 1. Co-organizer for Workshop on Building Physically Plausible World Models at ICML [2025](https://physical-world-modeling.github.io/).
 
 1. Co-organizer for Ecological Theory of RL Workshop at NeurIPS [2021](https://sites.google.com/view/ecorl2021).

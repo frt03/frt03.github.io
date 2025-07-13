@@ -37,6 +37,7 @@ Research Scientist at Google DeepMind, Japan. 博士（工学）.
 1. 松嶋 達也, <u>古田 拓毅</u>, 顧 世翔, 松尾 豊. [オフラインデータを利用したモデルベース強化学習](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_2D5OS18b03/_article/-char/ja/). _人工知能学会全国大会 (JSAI 2020)_, 2020.
 
 ## 講演・発表
+1. <u>古田 拓毅</u>. AGI/ASIに向けた研究開発. 第20回言語処理若手シンポジウム([YANS2025](https://yans.anlp.jp/entry/yans2025invitesession)) 招待ポスター. 2025.
 1. <u>古田 拓毅</u>. Webナビゲーションにおける言語モデルエージェントの展望と課題. 応用機械学習と人工知能セミナー: AIエージェント. Tokyo AI Talks (TAI). 2024.
 1. <u>古田 拓毅</u>. Webナビゲーションにおける言語モデルエージェントの展望と課題. [NLPコロキウム](https://nlp-colloquium-jp.github.io/schedule/2024-05-15_hiroki-furuta/). 2024.
 1. <u>古田 拓毅</u>. 大規模モデルに基づく意思決定エージェントの構築. 2023年中日青年博士フォーラム ー人工知能技術の応用と発展. 2023.
