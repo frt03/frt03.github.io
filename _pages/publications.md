@@ -8,6 +8,16 @@ author_profile: true
 
 ## Conference Publications
 
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties**  <br>
+_Neural Information Processing Systems (NeurIPS 2025)_. <br>
+[[arxiv](https://arxiv.org/abs/2506.05744)]
+
+1. Yuta Oshima, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** <br>
+_Neural Information Processing Systems (NeurIPS 2025)_. <br>
+[[arxiv](https://arxiv.org/abs/2501.19252)]
+
 1. Gouki Minegishi, <u>Hiroki Furuta</u>, Shohei Taniguchi, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Beyond Induction Heads: In-Context Meta Learning Induces Multi-Phase Circuit Emergence**  <br>
 _International Conference on Machine Learning (ICML 2025)_. <br>
@@ -92,16 +102,6 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 
 
 ## Preprints
-
-1. Gouki Minegishi, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
-**Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties**  <br>
-_arXiv preprint arXiv:2501.19252_, 2025. <br>
-[[arxiv](https://arxiv.org/abs/2506.05744)]
-
-1. Yuta Oshima, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
-**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** <br>
-_arXiv preprint arXiv:2501.19252_, 2025. <br>
-[[arxiv](https://arxiv.org/abs/2501.19252)]
 
 1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
 **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>

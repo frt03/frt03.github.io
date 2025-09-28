@@ -19,16 +19,6 @@ My recent research interest has focused on **AI agents** driven by multimodal LL
 
 ## Recent Preprints
 
-1. Gouki Minegishi, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
-**Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties**  <br>
-_arXiv preprint arXiv:2501.19252_, 2025. <br>
-[[arxiv](https://arxiv.org/abs/2506.05744)]
-
-1. Yuta Oshima, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
-**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** <br>
-_arXiv preprint arXiv:2501.19252_, 2025. <br>
-[[arxiv](https://arxiv.org/abs/2501.19252)]
-
 1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
 **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
 _arXiv preprint arXiv:2412.02617_, 2024. <br>
@@ -36,6 +26,16 @@ _arXiv preprint arXiv:2412.02617_, 2024. <br>
 
 
 ## Conference Publications
+
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties**  <br>
+_Neural Information Processing Systems (NeurIPS 2025)_. <br>
+[[arxiv](https://arxiv.org/abs/2506.05744)]
+
+1. Yuta Oshima, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** <br>
+_Neural Information Processing Systems (NeurIPS 2025)_. <br>
+[[arxiv](https://arxiv.org/abs/2501.19252)]
 
 1. Gouki Minegishi, <u>Hiroki Furuta</u>, Shohei Taniguchi, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Beyond Induction Heads: In-Context Meta Learning Induces Multi-Phase Circuit Emergence**  <br>
@@ -135,7 +135,7 @@ Please check [Publications](./publications.md) for further details.
 
 1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2023 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2024, 2025.
 
-1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024, 2025.
+1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024, 2025, 2026.
 
 1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023, 2024, 2025.
 
