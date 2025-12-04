@@ -12,8 +12,10 @@ Research Scientist at Google DeepMind, Japan. 博士（工学）.
 
 
 ## 興味
-- AIエージェント, 言語モデルエージェント (AI Agent, LLM Agent)
-- AIアラインメント (AI Alignment, RLHF)
+- マルチモーダル理解と生成
+- マルチモーダルAIエージェント (Multimodal AI Agent)
+- マルチモーダルな拡散モデル (Diffusion Models)
+- 生成AIのためのアラインメント (Alignment/RLHF for Generative AI)
 - 機構的解釈性 (Mechanistic Interpretability)
 - 大規模言語モデル (LLM)
 - 深層強化学習・ロボット学習

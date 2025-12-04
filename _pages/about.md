@@ -9,15 +9,25 @@ redirect_from:
 ---
 <span style="font-size: 80%;">
 
-I am a research scientist at Google DeepMind, Japan, working mainly on multimodal AI agents and alignment for diffusion models.
-I received Ph.D. at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/). I also received BEng and MEng at The University of Tokyo, advised by Yutaka Matsuo and closely collaborated with [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
-I was a Student Researcher at Google DeepMind, hosted by [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) and [Izzeddin Gur](https://scholar.google.com/citations?user=qS_ugJAAAAAJ).
+I am a research scientist at Google DeepMind, Japan, working mainly on interactive multimodal AI agents ([Project Astra](https://deepmind.google/models/project-astra/)) and alignment for video diffusion models ([Veo](https://deepmind.google/models/veo/)).
+I received Ph.D. at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/). I also received BEng and MEng at The University of Tokyo, advised by Yutaka Matsuo, and closely collaborated with [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
+During my Ph.D., I was a Student Researcher at Google DeepMind, hosted by [David Ha](https://scholar.google.com/citations?user=N7X-kbUAAAAJ&hl=en) (in 2022) and [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) (in 2023 - 2024).
 
 
-My recent research interest has focused on **AI agents** driven by multimodal LLMs for real-world applications (e.g., robotics, web navigation), **AI alignment** through deep reinforcement learning, and **mechanistic interpretablebility** of LLMs.
+My recent research interest is around **Multimodal Understanding and Generation**; that is, **Multimodal AI agents** for real-world applications, **Diffusion Models** for Multimodal Generation, **Alignment for Generative AI** through deep reinforcement learning, and **Mechanistic Interpretability** of LLMs.
 
 
 ## Recent Preprints
+
+1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** <br>
+_arXiv preprint arXiv:2512.02473_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2512.02473)]
+
+1. Yuta Oshima, Daiki Miyake, Kohsei Matsutani, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation** <br>
+_arXiv preprint arXiv:2511.22989_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2511.22989)] [[code](https://github.com/matsuolab/multibanana/)] [[HuggingFace](https://huggingface.co/datasets/kohsei/MultiBanana-Benchmark)]
 
 1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
 **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
@@ -139,7 +149,7 @@ Please check [Publications](./publications.md) for further details.
 
 1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023, 2024, 2025.
 
-1. Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+1. Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, 2026.
 
 1. Reviewer for International Conference on Computer Vision (ICCV), 2025.
 

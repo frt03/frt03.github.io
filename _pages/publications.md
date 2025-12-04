@@ -102,6 +102,15 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 
 
 ## Preprints
+1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** <br>
+_arXiv preprint arXiv:2512.02473_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2512.02473)]
+
+1. Yuta Oshima, Daiki Miyake, Kohsei Matsutani, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation** <br>
+_arXiv preprint arXiv:2511.22989_, 2025. <br>
+[[arxiv](https://arxiv.org/abs/2511.22989)] [[code](https://github.com/matsuolab/multibanana/)] [[HuggingFace](https://huggingface.co/datasets/kohsei/MultiBanana-Benchmark)]
 
 1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
 **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
