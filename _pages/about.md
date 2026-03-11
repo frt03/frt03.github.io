@@ -19,15 +19,20 @@ My recent research interest is around **Multimodal Understanding and Generation*
 
 ## Recent Preprints
 
+1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
+**Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
+_arXiv preprint arXiv:2602.06462_, 2026. <br>
+[[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
+
+1. Gouki Minegishi, Jingyuan Feng, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Emergent Analogical Reasoning in Transformers** <br>
+_arXiv preprint arXiv:2602.01992_, 2026. <br>
+[[arxiv](https://arxiv.org/abs/2602.01992)]
+
 1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
 **WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** <br>
 _arXiv preprint arXiv:2512.02473_, 2025. <br>
 [[arxiv](https://arxiv.org/abs/2512.02473)]
-
-1. Yuta Oshima, Daiki Miyake, Kohsei Matsutani, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
-**MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation** <br>
-_arXiv preprint arXiv:2511.22989_, 2025. <br>
-[[arxiv](https://arxiv.org/abs/2511.22989)] [[code](https://github.com/matsuolab/multibanana/)] [[HuggingFace](https://huggingface.co/datasets/kohsei/MultiBanana-Benchmark)]
 
 1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
 **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
@@ -36,6 +41,11 @@ _arXiv preprint arXiv:2412.02617_, 2024. <br>
 
 
 ## Conference Publications
+
+1. Yuta Oshima, Daiki Miyake, Kohsei Matsutani, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation** <br>
+_The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)_. <br>
+[[arxiv](https://arxiv.org/abs/2511.22989)] [[code](https://github.com/matsuolab/multibanana/)] [[HuggingFace](https://huggingface.co/datasets/kohsei/MultiBanana-Benchmark)]
 
 1. Gouki Minegishi, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties**  <br>
