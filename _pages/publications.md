@@ -6,7 +6,18 @@ author_profile: true
 ---
 <span style="font-size: 80%;">
 
+
 ## Conference Publications
+1. Gouki Minegishi, Jingyuan Feng, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Emergent Analogical Reasoning in Transformers** <br>
+_International Conference on Machine Learning (ICML 2026)_ (<span style="color: tomato; ">**Spotlight**</span>, 2.2% of 23918 submissions). <br>
+[[arxiv](https://arxiv.org/abs/2602.01992)]
+
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Understanding Emergent Misalignment via Feature Superposition Geometry** <br>
+_The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)_. <br>
+[[arxiv](https://arxiv.org/abs/2605.00842)]
+
 1. Yuta Oshima, Daiki Miyake, Kohsei Matsutani, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
 **MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation** <br>
 _The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)_. <br>
@@ -64,12 +75,12 @@ _International Conference on Learning Representations (ICLR 2024)_. <br>
 
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
-_International Conference on Learning Representations (ICLR 2023)_ (<span style="color: tomato; ">**Notable-top-25%**</span>, 8.0% of 4966 submissions). <br>
+_International Conference on Learning Representations (ICLR 2023)_ (<span style="color: tomato; ">**Notable Top 25%**</span>, Spotlight, 8.0% of 4966 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2211.14296)] [[code](https://github.com/frt03/mxt_bench)] [[website](https://sites.google.com/view/control-graph)]
 
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Generalized Decision Transformer for Offline Hindsight Information Matching**  <br>
-_International Conference on Learning Representations (ICLR 2022)_ (<span style="color: tomato; ">**Spotlight**</span>, 6.8% of 3391 submissions). <br>
+_International Conference on Learning Representations (ICLR 2022)_ (<span style="color: tomato; ">**Spotlight**</span>, 5.0% of 3391 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2111.10364)] [[code](https://github.com/frt03/generalized_dt)] [[website](https://sites.google.com/view/generalizeddt)]
 
 1. <u>Hiroki Furuta</u>, Tadashi Kozuno, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. <br>
@@ -105,16 +116,12 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 [[paper](https://ieeexplore.ieee.org/abstract/document/10080994)]
 
 
+
 ## Preprints
 1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
 **Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
 _arXiv preprint arXiv:2602.06462_, 2026. <br>
 [[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
-
-1. Gouki Minegishi, Jingyuan Feng, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
-**Emergent Analogical Reasoning in Transformers** <br>
-_arXiv preprint arXiv:2602.01992_, 2026. <br>
-[[arxiv](https://arxiv.org/abs/2602.01992)]
 
 1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
 **WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** <br>
@@ -132,7 +139,14 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 [[arxiv](https://arxiv.org/abs/2110.04686)] [[code](https://github.com/google/brax/tree/main/brax/experimental/braxlines/)]
 
 
+
 ## Workshop Presentations
+1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**WorldPack: Dynamic Frame Compression for Long-context Video World Modeling** <br>
+<span style="font-size: 70%;">
+_CVPR 2026 1st Workshop on Video World Models: Interaction, Memory, Efficiency [$^{*}$](https://videoworldmodel-workshop.github.io/)_.
+</span>
+
 1. Gouki Minegishi, Jingyuan Feng, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Emergent Analogy in Transformers** <br>
 <span style="font-size: 70%;">

@@ -8,7 +8,7 @@ author_profile: true
 <span style="font-size: 80%;">
 
 ## プロフィール
-Research Scientist at Google DeepMind, Japan. 博士（工学）.
+Senior Research Scientist at Google DeepMind, Japan. 博士（工学）.
 
 
 ## 興味
@@ -17,6 +17,7 @@ Research Scientist at Google DeepMind, Japan. 博士（工学）.
 - マルチモーダルな拡散モデル (Diffusion Models)
 - 生成AIのためのアラインメント (Alignment/RLHF for Generative AI)
 - 機構的解釈性 (Mechanistic Interpretability)
+- 世界モデル (World Models)
 - 大規模言語モデル (LLM)
 - 深層強化学習・ロボット学習
 
@@ -29,10 +30,12 @@ Research Scientist at Google DeepMind, Japan. 博士（工学）.
 1. <u>古田 拓毅</u>. [データ中心の視点から捉える深層強化学習](https://www.jstage.jst.go.jp/article/jjsai/37/4/37_507/_article/-char/ja/). _人工知能_, 37(4), 507-515. 2022.
 
 ### 国内会議
+1. 小野田 空羽, 大島 佑太, 谷口 尚平, 西森 創一朗, パラマス パーヴォ, <u>古田 拓毅</u>, 松尾 豊.
+拡散モデルによる画像生成におけるBest-of-N性能向上のための多様性を考慮したMax@k最適化. _人工知能学会全国大会 (JSAI 2026)_, 2025.
 
-1. 峰岸 剛基, <u>古田 拓毅</u>, 谷口 尚平, 岩澤 有祐, 松尾 豊. 文脈内学習による多段階回路の形成. _人工知能学会全国大会 (JSAI 2025)_, 2025.
+1. 峰岸 剛基, <u>古田 拓毅</u>, 谷口 尚平, 岩澤 有祐, 松尾 豊. [文脈内学習による多段階回路の形成](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_3L6OS3202/_article/-char/ja/). _人工知能学会全国大会 (JSAI 2025)_, 2025.
 
-1. 大島 佑太, <u>古田 拓毅</u>, 鈴木 雅大, 松尾 豊. ビーム探索を用いた動画拡散モデルの推論時アラインメント. _人工知能学会全国大会 (JSAI 2025)_, 2025.
+1. 大島 佑太, <u>古田 拓毅</u>, 鈴木 雅大, 松尾 豊. [ビーム探索を用いた動画拡散モデルの推論時アラインメント](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_3N4GS704/_article/-char/ja). _人工知能学会全国大会 (JSAI 2025)_, 2025.
 
 1. 佐藤 誠人, 海野 良介, <u>古田 拓毅</u>, 松嶋 達也, 岡田 領, PAVEL Savkin, 佐野 元紀, 松尾 豊. [画像のMid-Levelな表現による物体操作の模倣学習手法の検討](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3L4GS803/_article/-char/ja). _人工知能学会全国大会 (JSAI 2022)_, 2022.
 
@@ -53,6 +56,7 @@ Research Scientist at Google DeepMind, Japan. 博士（工学）.
 
 
 ## 経歴
+- Research Scientist, Google DeepMind <span style="font-size: 80%;">(2025年 1月 - 現在)</span>
 - 東京大学工学系研究科 技術経営戦略学専攻 博士課程 修了 <span style="font-size: 80%;">(2025年 3月, 指導教員: 松尾 豊)</span>
 - 東京大学工学系研究科 技術経営戦略学専攻 修士課程 修了 <span style="font-size: 80%;">(2022年 3月, 指導教員: 松尾 豊)</span>
 - 東京大学 工学部システム創成学科 卒業 <span style="font-size: 80%;">(2020年 3月, 指導教員: 宮本 英昭)</span>

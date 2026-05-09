@@ -9,12 +9,12 @@ redirect_from:
 ---
 <span style="font-size: 80%;">
 
-I am a research scientist at Google DeepMind, Japan, working mainly on interactive multimodal AI agents ([Project Astra](https://deepmind.google/models/project-astra/)) and alignment for video diffusion models ([Veo](https://deepmind.google/models/veo/)).
+I am a senior research scientist at Google DeepMind, Tokyo, mainly working on interactive multimodal AI agents ([Project Astra](https://deepmind.google/models/project-astra/)) and alignment for video diffusion models ([Veo](https://deepmind.google/models/veo/)).
 I received Ph.D. at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/). I also received BEng and MEng at The University of Tokyo, advised by Yutaka Matsuo, and closely collaborated with [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
 During my Ph.D., I was a Student Researcher at Google DeepMind, hosted by [David Ha](https://scholar.google.com/citations?user=N7X-kbUAAAAJ&hl=en) (in 2022) and [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) (in 2023 - 2024).
 
 
-My recent research interest is around **Multimodal Understanding and Generation**; that is, **Multimodal AI agents** for real-world applications, **Diffusion Models** for Multimodal Generation, **Alignment for Generative AI** through deep reinforcement learning, and **Mechanistic Interpretability** of LLMs.
+My recent research interest is around **Multimodal Understanding and Generation**; that is, **Multimodal AI agents** for real-world applications, **Diffusion Models** for Multimodal Generation and World Models, **Alignment for Generative AI** through deep reinforcement learning, and **Mechanistic Interpretability** of LLMs.
 
 
 ## Recent Preprints
@@ -24,23 +24,24 @@ My recent research interest is around **Multimodal Understanding and Generation*
 _arXiv preprint arXiv:2602.06462_, 2026. <br>
 [[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
 
-1. Gouki Minegishi, Jingyuan Feng, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
-**Emergent Analogical Reasoning in Transformers** <br>
-_arXiv preprint arXiv:2602.01992_, 2026. <br>
-[[arxiv](https://arxiv.org/abs/2602.01992)]
 
 1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
 **WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** <br>
 _arXiv preprint arXiv:2512.02473_, 2025. <br>
 [[arxiv](https://arxiv.org/abs/2512.02473)]
 
-1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
-**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
-_arXiv preprint arXiv:2412.02617_, 2024. <br>
-[[arxiv](https://arxiv.org/abs/2412.02617)] [[website](https://sites.google.com/view/aif-dynamic-t2v/)]
 
+## Recent Publications
 
-## Conference Publications
+1. Gouki Minegishi, Jingyuan Feng, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Emergent Analogical Reasoning in Transformers** <br>
+_International Conference on Machine Learning (ICML 2026)_ (<span style="color: tomato; ">**Spotlight**</span>, 2.2% of 23918 submissions). <br>
+[[arxiv](https://arxiv.org/abs/2602.01992)]
+
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Understanding Emergent Misalignment via Feature Superposition Geometry** <br>
+_The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)_. <br>
+[[arxiv](https://arxiv.org/abs/2605.00842)]
 
 1. Yuta Oshima, Daiki Miyake, Kohsei Matsutani, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
 **MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation** <br>
@@ -57,30 +58,20 @@ _Neural Information Processing Systems (NeurIPS 2025)_. <br>
 _Neural Information Processing Systems (NeurIPS 2025)_. <br>
 [[arxiv](https://arxiv.org/abs/2501.19252)]
 
-1. Gouki Minegishi, <u>Hiroki Furuta</u>, Shohei Taniguchi, Yusuke Iwasawa, Yutaka Matsuo. <br>
-**Beyond Induction Heads: In-Context Meta Learning Induces Multi-Phase Circuit Emergence**  <br>
-_International Conference on Machine Learning (ICML 2025)_. <br>
-[[arxiv](https://arxiv.org/abs/2505.16694)]
 
-1. Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, Suhong Moon, <u>Hiroki Furuta</u>, Gopala Anumanchipalli, Kurt Keutzer, Amir Gholami. <br>
-**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks** <br>
-_International Conference on Machine Learning (ICML 2025)_. <br>
-[[arxiv](https://arxiv.org/abs/2503.09572)]
+## Selected Publications
 
-1. Gouki Minegishi, <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo. <br>
-**Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words**  <br>
-_International Conference on Learning Representations (ICLR 2025)_. <br>
-[[arxiv](https://arxiv.org/abs/2501.06254)] [[code](https://github.com/gouki510/PS-Eval)]
+Please see [Publications](./publications.md) or [Google Scholar](https://scholar.google.com/citations?user=M0OhM1UAAAAJ&hl=en) for the full list of publications.
 
-1. <u>Hiroki Furuta</u>, Kuang-Huei Lee, Shixiang Shane Gu, Yutaka Matsuo, Aleksandra Faust, Heiga Zen, Izzeddin Gur. <br>
-**Geometric-Averaged Preference Optimization for Soft Preference Labels**  <br>
-_Neural Information Processing Systems (NeurIPS 2024)_. <br>
-[[arxiv](https://arxiv.org/abs/2409.06691)]
+1. Gouki Minegishi, Jingyuan Feng, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Emergent Analogical Reasoning in Transformers** <br>
+_International Conference on Machine Learning (ICML 2026)_ (<span style="color: tomato; ">**Spotlight**</span>, 2.2% of 23918 submissions). <br>
+[[arxiv](https://arxiv.org/abs/2602.01992)]
 
-1. Kuang-Huei Lee, Xinyun Chen, <u>Hiroki Furuta</u>, John Canny, Ian Fischer. <br>
-**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**  <br>
-_International Conference on Machine Learning (ICML 2024)_. <br>
-[[arxiv](https://arxiv.org/abs/2402.09727)] [[website](https://read-agent.github.io/)]
+1. Yuta Oshima, Daiki Miyake, Kohsei Matsutani, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation** <br>
+_The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)_. <br>
+[[arxiv](https://arxiv.org/abs/2511.22989)] [[code](https://github.com/matsuolab/multibanana/)] [[HuggingFace](https://huggingface.co/datasets/kohsei/MultiBanana-Benchmark)]
 
 1. Open X-Embodiment Collaboration, et al. (including <u>Hiroki Furuta</u>) <br>
 **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**  <br>
@@ -99,49 +90,18 @@ _International Conference on Learning Representations (ICLR 2024)_. <br>
 
 1. <u>Hiroki Furuta</u>, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation** <br>
-_International Conference on Learning Representations (ICLR 2023)_ (<span style="color: tomato; ">**Notable-top-25%**</span>, 8% of 4966 submissions). <br>
+_International Conference on Learning Representations (ICLR 2023)_ (<span style="color: tomato; ">**Notable Top 25%**</span>, Spotlight, 8% of 4966 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2211.14296)] [[code](https://github.com/frt03/mxt_bench)] [[website](https://sites.google.com/view/control-graph)]
 
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu. <br>
 **Generalized Decision Transformer for Offline Hindsight Information Matching**  <br>
-_International Conference on Learning Representations (ICLR 2022)_ (<span style="color: tomato; ">**Spotlight**</span>, 5% of 3391 submissions). <br>
+_International Conference on Learning Representations (ICLR 2022)_ (<span style="color: tomato; ">**Spotlight**</span>, 5.0% of 3391 submissions). <br>
 [[arxiv](https://arxiv.org/abs/2111.10364)] [[code](https://github.com/frt03/generalized_dt)] [[website](https://sites.google.com/view/generalizeddt)]
-
-1. <u>Hiroki Furuta</u>, Tadashi Kozuno, Tatsuya Matsushima, Yutaka Matsuo, Shixiang Shane Gu. <br>
-**Co-Adaptation of Algorithmic and Implementational Innovations in Inference-based Deep Reinforcement Learning**  <br>
-_Neural Information Processing Systems (NeurIPS 2021)_. <br>
-[[arxiv](https://arxiv.org/abs/2103.17258)] [[code](https://github.com/frt03/inference-based-rl)]
-
-1. <u>Hiroki Furuta</u>, Tatsuya Matsushima, Tadashi Kozuno, Yutaka Matsuo, Sergey Levine, Ofir Nachum, Shixiang Shane Gu. <br>
-**Policy Information Capacity: Information-Theoretic Measure for Task Complexity in Deep Reinforcement Learning**  <br>
-_International Conference on Machine Learning (ICML 2021)_. <br>
-[[arxiv](https://arxiv.org/abs/2103.12726)] [[code](https://github.com/frt03/pic)]
 
 1. Tatsuya Matsushima\*, <u>Hiroki Furuta</u>\*, Yutaka Matsuo, Ofir Nachum, Shixiang Gu. (\*Equal Contribution)<br>
 **Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization**  <br>
 _International Conference on Learning Representations (ICLR 2021)_. <br>
 [[openreview](https://openreview.net/forum?id=3hGNqpI4WS)] [[code](https://github.com/matsuolab/BREMEN)]
-
-
-## Journal Publications
-
-1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
-**Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
-_Transactions on Machine Learning Research (TMLR)_, 2024. <br>
-[[arxiv](https://arxiv.org/abs/2311.18751)] [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)]
-
-1. <u>Hiroki Furuta</u>, Gouki Minegishi, Yusuke Iwasawa, Yutaka Matsuo. <br>
-**Towards Empirical Interpretation of Internal Circuits and Properties in Grokked Transformers on Modular Polynomials**  <br>
-_Transactions on Machine Learning Research (TMLR)_, 2024. <br>
-[[arxiv](https://arxiv.org/abs/2402.16726)] [[code](https://github.com/frt03/grok_mod_poly)]
-
-1. So Kuroki, Tatsuya Matsushima, Junpei Arima, <u>Hiroki Furuta</u>, Yutaka Matsuo, Shixiang Shane Gu, Yujin Tang. <br>
-**Collective Intelligence for 2D Push Manipulations With Mobile Robots** <br>
-_IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
-[[paper](https://ieeexplore.ieee.org/abstract/document/10080994)]
-
-
-Please check [Publications](./publications.md) for further details.
 
 
 ## Talks
@@ -163,7 +123,7 @@ Please check [Publications](./publications.md) for further details.
 
 1. Reviewer for International Conference on Computer Vision (ICCV), 2025.
 
-1. Reviewer for Association for Computational Linguistics (ACL) Rolling Review, 2025.
+1. Reviewer for Association for Computational Linguistics (ACL) Rolling Review, 2025, 2026.
 
 1. Reviewer for Transactions on Machine Learning Research (TMLR).
 
