@@ -119,6 +119,11 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 
 ## Preprints
 1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
+**Drifting Objectives for Refining Discrete Diffusion Language Models** <br>
+_arXiv preprint arXiv:2605.19470_, 2026. <br>
+[[arxiv](https://arxiv.org/abs/2605.19470)] [[website](https://daioba.github.io/tokendrift/)]
+
+1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
 **Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
 _arXiv preprint arXiv:2602.06462_, 2026. <br>
 [[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
@@ -141,6 +146,12 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 
 
 ## Workshop Presentations
+1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
+**Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
+<span style="font-size: 70%;">
+_ICML 2026 3rd AI for Math Workshop: Toward Self-Evolving Scientific Agents [$^{*}$](https://ai4math2026.github.io/)_.
+</span>
+
 1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
 **WorldPack: Dynamic Frame Compression for Long-context Video World Modeling** <br>
 <span style="font-size: 70%;">
@@ -150,7 +161,8 @@ _CVPR 2026 1st Workshop on Video World Models: Interaction, Memory, Efficiency [
 1. Gouki Minegishi, Jingyuan Feng, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Emergent Analogy in Transformers** <br>
 <span style="font-size: 70%;">
-_ICLR 2026 Workshop on Latent \& Implicit Thinking -- Going Beyond CoT Reasoning [$^{*}$](https://latent-implicit-thinking.github.io/)_.
+_ICLR 2026 Workshop on Latent \& Implicit Thinking -- Going Beyond CoT Reasoning [$^{*}$](https://latent-implicit-thinking.github.io/)_. <br>
+_ICML 2026 Mechanistic Interpretability Workshop [$^{*}$](https://mechinterpworkshop.com/)_.
 </span>
 
 1. Gouki Minegishi, <u>Hiroki Furuta</u>, Shohei Taniguchi, Yusuke Iwasawa, Yutaka Matsuo. <br>

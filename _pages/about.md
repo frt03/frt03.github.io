@@ -9,21 +9,24 @@ redirect_from:
 ---
 <span style="font-size: 80%;">
 
-I am a senior research scientist at Google DeepMind, Tokyo, mainly working on interactive multimodal AI agents ([Project Astra](https://deepmind.google/models/project-astra/)) and alignment for video diffusion models ([Veo](https://deepmind.google/models/veo/)).
+I am a senior research scientist at Google DeepMind, Tokyo, mainly working on interactive multimodal AI agents ([Project Astra](https://deepmind.google/models/project-astra/)) and post-training for video diffusion models ([Veo](https://deepmind.google/models/veo/), [Gemini Omni](https://deepmind.google/models/gemini-omni/)).
 I received Ph.D. at The University of Tokyo, advised by [Yutaka Matsuo](http://ymatsuo.com/). I also received BEng and MEng at The University of Tokyo, advised by Yutaka Matsuo, and closely collaborated with [Shixiang Shane Gu](https://sites.google.com/view/gugurus/home).
 During my Ph.D., I was a Student Researcher at Google DeepMind, hosted by [David Ha](https://scholar.google.com/citations?user=N7X-kbUAAAAJ&hl=en) (in 2022) and [Heiga Zen](https://scholar.google.com/citations?user=z3IRvDwAAAAJ) (in 2023 - 2024).
 
 
-My recent research interest is around **Multimodal Understanding and Generation**; that is, **Multimodal AI agents** for real-world applications, **Diffusion Models** for Multimodal Generation and World Models, **Alignment for Generative AI** through deep reinforcement learning, and **Mechanistic Interpretability** of LLMs.
+My recent research interest is around **Multimodal Understanding and Generation**; that is, **Multimodal AI agents** for real-world applications, **Diffusion Models** for Multimodal Generation and World Models, **Post-Training for Generative AI** through deep reinforcement learning, and **Mechanistic Interpretability** of LLMs.
 
 
 ## Recent Preprints
+1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
+**Drifting Objectives for Refining Discrete Diffusion Language Models** <br>
+_arXiv preprint arXiv:2605.19470_, 2026. <br>
+[[arxiv](https://arxiv.org/abs/2605.19470)] [[website](https://daioba.github.io/tokendrift/)]
 
 1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
 **Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
 _arXiv preprint arXiv:2602.06462_, 2026. <br>
 [[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
-
 
 1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
 **WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** <br>
