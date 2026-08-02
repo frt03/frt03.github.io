@@ -118,6 +118,11 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 
 
 ## Preprints
+1. Ku Onoda, Paavo Parmas, <u>Hiroki Furuta</u>, Soichiro Nishimori, Yuta Oshima, Shohei Taniguchi, Yutaka Matsuo. <br>
+**Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation** <br>
+_arXiv preprint arXiv:2607.14962_, 2026. <br>
+[[arxiv](https://arxiv.org/abs/2607.14962)]
+
 1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
 **Drifting Objectives for Refining Discrete Diffusion Language Models** <br>
 _arXiv preprint arXiv:2605.19470_, 2026. <br>
@@ -146,6 +151,12 @@ _arXiv preprint arXiv:2110.04686_, 2021. <br>
 
 
 ## Workshop Presentations
+1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
+**Drifting Objectives for Refining Discrete Diffusion Language Models** <br>
+<span style="font-size: 70%;">
+_COLM 2026 Workshop Non-Autoregressive Language Models for Fast and Flexible Text Generation [$^{*}$](https://pengzhangzhi.github.io/NonAR-LM/)_
+</span>
+
 1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
 **Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
 <span style="font-size: 70%;">

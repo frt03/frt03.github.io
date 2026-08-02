@@ -126,11 +126,15 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 
 1. Reviewer for International Conference on Computer Vision (ICCV), 2025.
 
+1. Reviewer for Winter Conference on Applications of Computer Vision (WACV), 2026.
+
 1. Reviewer for Association for Computational Linguistics (ACL) Rolling Review, 2025, 2026.
 
 1. Reviewer for Transactions on Machine Learning Research (TMLR).
 
 1. Reviewer for Advanced Robotics (AR).
+
+1. Co-organizer for Workshop on Robot Learning with World Models: Capabilities, Frontiers, and Challenges at NeurIPS [2026](https://robowm-ws.github.io/).
 
 1. Co-organizer for Workshop on Robotics World Modeling at CoRL [2025](https://robot-world-modeling.github.io/).
 
@@ -138,7 +142,7 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 
 1. Co-organizer for Ecological Theory of RL Workshop at NeurIPS [2021](https://sites.google.com/view/ecorl2021).
 
-1. Program Committee for Foundation Models for Decision Making Workshop at NeurIPS [2022](https://sites.google.com/view/fmdm-neurips/), [2023](https://sites.google.com/view/fmdm-neurips23/).
+<!-- 1. Program Committee for Foundation Models for Decision Making Workshop at NeurIPS [2022](https://sites.google.com/view/fmdm-neurips/), [2023](https://sites.google.com/view/fmdm-neurips23/). -->
 
 
 ## Honors & Awards
