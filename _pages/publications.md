@@ -105,6 +105,11 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 
 
 ## Journal Publications
+1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** <br>
+_Transactions on Machine Learning Research (TMLR)_, 2026. <br>
+[[arxiv](https://arxiv.org/abs/2512.02473)]
+
 1. <u>Hiroki Furuta</u>, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur. <br>
 **Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web**  <br>
 _Transactions on Machine Learning Research (TMLR)_, 2024. <br>
@@ -132,11 +137,6 @@ _arXiv preprint arXiv:2605.19470_, 2026. <br>
 **Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
 _arXiv preprint arXiv:2602.06462_, 2026. <br>
 [[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
-
-1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
-**WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** <br>
-_arXiv preprint arXiv:2512.02473_, 2025. <br>
-[[arxiv](https://arxiv.org/abs/2512.02473)]
 
 1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
 **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>

@@ -28,11 +28,6 @@ _arXiv preprint arXiv:2605.19470_, 2026. <br>
 _arXiv preprint arXiv:2602.06462_, 2026. <br>
 [[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
 
-1. Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
-**WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** <br>
-_arXiv preprint arXiv:2512.02473_, 2025. <br>
-[[arxiv](https://arxiv.org/abs/2512.02473)]
-
 
 ## Recent Publications
 
