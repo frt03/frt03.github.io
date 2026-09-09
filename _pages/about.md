@@ -17,6 +17,20 @@ During my Ph.D., I was a Student Researcher at Google DeepMind, hosted by [David
 My recent research interest is around **Multimodal Understanding and Generation**; that is, **Multimodal AI agents** for real-world applications, **Diffusion Models** for Multimodal Generation and World Models, **Post-Training for Generative AI** through deep reinforcement learning, and **Mechanistic Interpretability** of LLMs.
 
 
+## Recent Projects
+1. **Gemini Omni Flash 1.0** <br>
+Core Contributor / diffusion RL. <br>
+[[website]](https://deepmind.google/models/gemini-omni/)
+
+1. **Veo 3.1** <br>
+Core Contributor / Leading diffusion RL efforts for voice referencing. <br>
+[[website]](https://deepmind.google/models/veo/)
+
+1. **Project Astra / Gemini Live** <br>
+Core Contributor / Proactive dialogue for gaming assistant. <br>
+[[website]](https://deepmind.google/models/project-astra/)
+
+
 ## Recent Preprints
 1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
 **Drifting Objectives for Refining Discrete Diffusion Language Models** <br>
