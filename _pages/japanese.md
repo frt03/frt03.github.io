@@ -31,7 +31,7 @@ Senior Research Scientist at Google DeepMind, Japan. 博士（工学）.
 
 ### 国内会議
 1. 小野田 空羽, 大島 佑太, 谷口 尚平, 西森 創一朗, パラマス パーヴォ, <u>古田 拓毅</u>, 松尾 豊.
-拡散モデルによる画像生成におけるBest-of-N性能向上のための多様性を考慮したMax@k最適化. _人工知能学会全国大会 (JSAI 2026)_, 2025.
+拡散モデルによる画像生成におけるBest-of-N性能向上のための多様性を考慮したMax@k最適化. _人工知能学会全国大会 (JSAI 2026)_, 2026.
 
 1. 峰岸 剛基, <u>古田 拓毅</u>, 谷口 尚平, 岩澤 有祐, 松尾 豊. [文脈内学習による多段階回路の形成](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_3L6OS3202/_article/-char/ja/). _人工知能学会全国大会 (JSAI 2025)_, 2025.
 

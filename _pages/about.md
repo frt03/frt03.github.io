@@ -18,7 +18,7 @@ My recent research interest is around **Multimodal Understanding and Generation*
 
 
 ## Recent Projects
-1. **Gemini Omni Flash 1.0** <br>
+1. **Gemini Omni 1.0 Flash** <br>
 Core Contributor / diffusion RL. <br>
 [[website]](https://deepmind.google/models/gemini-omni/)
 
@@ -37,13 +37,12 @@ Core Contributor / Proactive dialogue for gaming assistant. <br>
 _arXiv preprint arXiv:2605.19470_, 2026. <br>
 [[arxiv](https://arxiv.org/abs/2605.19470)] [[website](https://daioba.github.io/tokendrift/)]
 
-1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
-**Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
-_arXiv preprint arXiv:2602.06462_, 2026. <br>
-[[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
-
 
 ## Recent Publications
+1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
+**Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
+_Neural Information Processing Systems (NeurIPS 2026)_. <br>
+[[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
 
 1. Gouki Minegishi, Jingyuan Feng, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
 **Emergent Analogical Reasoning in Transformers** <br>
@@ -127,7 +126,7 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 
 1. Reviewer for Neural Information Processing Systems (NeurIPS), 2021, 2022 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2023 <span style="font-size: 80%;">(**Top Reviewer**)</span>, 2024, 2025.
 
-1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024, 2025, 2026.
+1. Reviewer for International Conference on Learning Representations (ICLR), 2022 <span style="font-size: 80%;">(**Highlighted Reviewer**)</span>, 2023, 2024, 2025, 2026, 2027.
 
 1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023, 2024, 2025.
 

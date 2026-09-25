@@ -8,6 +8,11 @@ author_profile: true
 
 
 ## Conference Publications
+1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
+**Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
+_Neural Information Processing Systems (NeurIPS 2026)_. <br>
+[[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
+
 1. Ku Onoda, Paavo Parmas, <u>Hiroki Furuta</u>, Soichiro Nishimori, Yuta Oshima, Shohei Taniguchi, Yutaka Matsuo. <br>
 **Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation** <br>
 _The IEEE/CVF Winter Conference on Applications of Computer Vision 2027 (WACV 2027)_. <br>
@@ -132,11 +137,6 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 **Drifting Objectives for Refining Discrete Diffusion Language Models** <br>
 _arXiv preprint arXiv:2605.19470_, 2026. <br>
 [[arxiv](https://arxiv.org/abs/2605.19470)] [[website](https://daioba.github.io/tokendrift/)]
-
-1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
-**Diffusion-State Policy Optimization for Masked Diffusion Language Models** <br>
-_arXiv preprint arXiv:2602.06462_, 2026. <br>
-[[arxiv](https://arxiv.org/abs/2602.06462)] [[website](https://daioba.github.io/dispo/)]
 
 1. <u>Hiroki Furuta</u>, Heiga Zen, Dale Schuurmans, Aleksandra Faust, Yutaka Matsuo, Percy Liang, Sherry Yang. <br>
 **Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** <br>
