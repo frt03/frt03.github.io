@@ -133,6 +133,21 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023. <br>
 
 
 ## Preprints
+1. Gouki Minegishi, <u>Hiroki Furuta</u>, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo. <br>
+**Matching Object or Relation? Tracing Abstract Reasoning Inside VLMs** <br>
+_arXiv preprint arXiv:2610.07646_, 2026. <br>
+[[arxiv](https://arxiv.org/abs/2610.07646)]
+
+1. Yuta Oshima, Masakazu Yoshimura, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**VIF-Bench: Evaluating Visual Instruction Following in Multi-Reference Image Generation** <br>
+_arXiv preprint arXiv:2609.37709_, 2026. <br>
+[[arxiv](https://arxiv.org/abs/2609.37709)] [[code](https://github.com/shim0114/VIF-Bench)] [[HuggingFace](https://huggingface.co/datasets/shim0114/VIF-Bench)]
+
+1. Yuta Oshima, Ku Onoda, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, <u>Hiroki Furuta</u>. <br>
+**AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation** <br>
+_arXiv preprint arXiv:2609.35530_, 2026. <br>
+[[arxiv](https://arxiv.org/abs/2609.35530)] [[code](https://github.com/KuOnoda/AutoRef)]
+
 1. Daisuke Oba, <u>Hiroki Furuta</u>, Naoaki Okazaki. <br>
 **Drifting Objectives for Refining Discrete Diffusion Language Models** <br>
 _arXiv preprint arXiv:2605.19470_, 2026. <br>
