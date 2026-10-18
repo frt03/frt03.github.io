@@ -145,7 +145,7 @@ _International Conference on Learning Representations (ICLR 2021)_. <br>
 
 1. Reviewer for International Conference on Machine Learning (ICML), 2021, 2022, 2023, 2024, 2025.
 
-1. Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, 2026.
+1. Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, 2026 <span style="font-size: 80%;">(**Outstanding Reviewer**).
 
 1. Reviewer for International Conference on Computer Vision (ICCV), 2025.
 
